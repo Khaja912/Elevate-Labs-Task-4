@@ -1,0 +1,1001 @@
+order_id,customer_id,order_date,product_id,product_name,category,quantity,unit_price,total_amount,payment_method,city
+1102,C109,2023-07-22,P170,Vacuum Cleaner,Home & Kitchen,2,367.56,735.12,Credit Card,Kolkata
+1435,C005,2023-07-18,P191,Headphones,Electronics,4,68.35,273.4,UPI,Kolkata
+1860,C119,2024-05-06,P155,Lipstick,Beauty,5,30.87,154.35,Cash on Delivery,Kolkata
+1270,C033,2023-01-21,P188,T-Shirt,Clothing,1,249.77,249.77,Cash on Delivery,Chennai
+1106,C118,2024-08-21,P007,Science Book,Books,2,76.76,153.52,Cash on Delivery,Bangalore
+1071,C065,2023-11-01,P133,Fiction Novel,Books,2,99.64,199.28,Net Banking,Pune
+1700,C146,2024-01-19,P235,Action Figure,Toys,3,157.81,473.43,Cash on Delivery,Delhi
+1020,C177,2024-02-29,P045,Coffee Maker,Home & Kitchen,4,178.01,712.04,Credit Card,Hyderabad
+1614,C011,2024-05-04,P249,Biography,Books,1,79.87,79.87,Credit Card,Delhi
+1121,C085,2023-10-16,P031,Doll,Toys,1,426.05,426.05,UPI,Hyderabad
+1466,C026,2024-07-26,P023,Jeans,Clothing,1,490.36,490.36,UPI,Ahmedabad
+1214,C063,2023-02-12,P160,Jeans,Clothing,2,204.97,409.94,UPI,Hyderabad
+1330,C086,2023-06-26,P158,Action Figure,Toys,1,396.89,396.89,Net Banking,Ahmedabad
+1458,C059,2024-05-08,P039,Fiction Novel,Books,1,308.39,308.39,UPI,Ahmedabad
+1087,C027,2024-05-31,P082,Jeans,Clothing,2,244.92,489.84,UPI,Hyderabad
+1372,C177,2023-02-26,P258,Coffee Maker,Home & Kitchen,2,333.77,667.54,UPI,Bangalore
+1099,C161,2023-05-24,P206,Perfume,Beauty,2,53.29,106.58,Debit Card,Ahmedabad
+1871,C098,2023-03-27,P077,Shampoo,Beauty,3,327.23,981.69,Net Banking,Mumbai
+1663,C105,2023-10-21,P012,Action Figure,Toys,4,35.83,143.32,Net Banking,Chennai
+1130,C099,2024-09-02,P295,Jacket,Clothing,4,181.21,724.84,Debit Card,Delhi
+1661,C129,2023-02-01,P224,Smartphone,Electronics,3,394.21,1182.63,Credit Card,Ahmedabad
+1308,C149,2024-01-18,P013,Mixer,Home & Kitchen,5,86.53,432.65,Credit Card,Kolkata
+1769,C055,2023-08-02,P046,T-Shirt,Clothing,4,379.59,1518.36,Debit Card,Mumbai
+1343,C006,2024-09-19,P155,Coffee Maker,Home & Kitchen,5,331.52,1657.6,Credit Card,Delhi
+1491,C197,2024-01-16,P113,Shampoo,Beauty,4,131.47,525.88,Debit Card,Chennai
+1413,C095,2023-01-26,P233,Headphones,Electronics,1,282.29,282.29,UPI,Pune
+1805,C133,2023-09-11,P017,Shampoo,Beauty,1,18.45,18.45,Cash on Delivery,Mumbai
+1385,C102,2023-04-07,P223,T-Shirt,Clothing,3,455.06,1365.18,Net Banking,Delhi
+1191,C003,2024-03-11,P188,Science Book,Books,2,251.42,502.84,Cash on Delivery,Pune
+1955,C181,2024-03-02,P163,Tennis Racket,Sports,1,201.7,201.7,Credit Card,Kolkata
+1276,C023,2024-05-18,P074,Cookbook,Books,3,223.33,669.99,Net Banking,Hyderabad
+1160,C053,2024-05-22,P233,Science Book,Books,4,264.05,1056.2,Debit Card,Ahmedabad
+1459,C165,2024-04-29,P224,Biography,Books,4,379.95,1519.8,UPI,Mumbai
+1313,C083,2024-07-12,P060,Tennis Racket,Sports,5,159.61,798.05,Debit Card,Hyderabad
+1021,C145,2024-04-12,P222,Doll,Toys,2,83.19,166.38,Debit Card,Pune
+1252,C085,2024-01-22,P037,Lipstick,Beauty,4,87.19,348.76,Credit Card,Pune
+1747,C078,2024-09-17,P278,Smartphone,Electronics,5,453.54,2267.7,Cash on Delivery,Hyderabad
+1856,C110,2023-08-08,P196,Wireless Mouse,Electronics,3,491.84,1475.52,Debit Card,Pune
+1560,C001,2024-06-03,P242,Doll,Toys,1,21.52,21.52,Credit Card,Delhi
+1474,C051,2024-09-10,P219,Smartphone,Electronics,5,367.65,1838.25,Debit Card,Delhi
+1058,C173,2024-01-01,P192,Running Shoes,Sports,5,222.96,1114.8,UPI,Chennai
+1510,C004,2024-06-07,P017,Hat,Clothing,3,441.8,1325.4,Cash on Delivery,Mumbai
+1681,C190,2023-01-16,P012,Action Figure,Toys,3,255.08,765.24,Debit Card,Hyderabad
+1475,C193,2024-06-16,P193,Cookware Set,Home & Kitchen,1,211.79,211.79,Debit Card,Bangalore
+1699,C113,2023-04-12,P022,Cricket Bat,Sports,5,164.89,824.45,UPI,Delhi
+1975,C032,2023-09-04,P120,T-Shirt,Clothing,2,216.61,433.22,Debit Card,Ahmedabad
+1782,C034,2023-05-11,P210,Wireless Mouse,Electronics,3,345.0,1035.0,Cash on Delivery,Mumbai
+1189,C092,2024-01-17,P270,Lipstick,Beauty,1,19.54,19.54,Debit Card,Hyderabad
+1957,C095,2024-04-20,P192,Cookbook,Books,5,486.86,2434.3,Debit Card,Pune
+1686,C072,2024-04-30,P175,Yoga Mat,Sports,5,151.76,758.8,Cash on Delivery,Chennai
+1957,C039,2024-07-25,P285,Cookbook,Books,2,59.82,119.64,Debit Card,Mumbai
+1562,C154,2024-03-25,P204,Lamp,Home & Kitchen,4,494.09,1976.36,Net Banking,Pune
+1875,C162,2023-08-14,P164,T-Shirt,Clothing,4,232.34,929.36,UPI,Pune
+1566,C182,2023-10-04,P251,Vacuum Cleaner,Home & Kitchen,3,440.51,1321.53,UPI,Ahmedabad
+1243,C118,2023-07-09,P227,Biography,Books,4,413.86,1655.44,UPI,Pune
+1831,C003,2024-06-29,P007,Hat,Clothing,1,123.74,123.74,Credit Card,Kolkata
+1504,C123,2023-12-04,P029,Doll,Toys,1,371.14,371.14,Credit Card,Delhi
+1130,C050,2023-10-06,P033,Hat,Clothing,2,308.82,617.64,Credit Card,Bangalore
+1484,C012,2023-10-16,P134,Headphones,Electronics,1,421.52,421.52,UPI,Bangalore
+1818,C193,2023-03-07,P079,Football,Sports,4,370.95,1483.8,UPI,Hyderabad
+1646,C054,2023-06-05,P058,Tennis Racket,Sports,3,344.73,1034.19,Net Banking,Chennai
+1020,C133,2023-01-01,P026,Headphones,Electronics,1,329.36,329.36,Net Banking,Bangalore
+1840,C057,2023-05-23,P226,Wireless Mouse,Electronics,3,348.6,1045.8,Net Banking,Kolkata
+1166,C145,2024-09-20,P285,Shampoo,Beauty,5,21.43,107.15,Credit Card,Mumbai
+1273,C112,2024-04-04,P004,T-Shirt,Clothing,5,328.32,1641.6,Debit Card,Hyderabad
+1387,C047,2023-07-26,P099,Coffee Maker,Home & Kitchen,1,384.2,384.2,Credit Card,Ahmedabad
+1600,C151,2023-09-08,P039,Football,Sports,2,327.13,654.26,Net Banking,Delhi
+1315,C085,2024-08-25,P271,Yoga Mat,Sports,3,282.42,847.26,Net Banking,Hyderabad
+1013,C142,2024-07-03,P285,Wireless Mouse,Electronics,2,226.29,452.58,Net Banking,Mumbai
+1241,C066,2024-06-30,P157,Science Book,Books,4,193.9,775.6,UPI,Kolkata
+1776,C075,2024-05-21,P075,Shampoo,Beauty,3,488.52,1465.56,Net Banking,Pune
+1345,C179,2024-02-28,P288,Cookware Set,Home & Kitchen,4,13.91,55.64,Cash on Delivery,Delhi
+1564,C103,2023-03-24,P130,Coffee Maker,Home & Kitchen,2,483.29,966.58,Cash on Delivery,Hyderabad
+1897,C166,2023-10-02,P175,Hat,Clothing,3,413.89,1241.67,Cash on Delivery,Chennai
+1339,C192,2023-06-22,P084,Action Figure,Toys,1,420.53,420.53,UPI,Mumbai
+1091,C038,2024-01-10,P022,Football,Sports,1,155.85,155.85,Debit Card,Bangalore
+1366,C050,2024-02-02,P027,Shampoo,Beauty,1,144.35,144.35,Credit Card,Delhi
+1955,C098,2024-04-09,P195,Tennis Racket,Sports,5,272.65,1363.25,Cash on Delivery,Bangalore
+1454,C082,2024-01-11,P236,Football,Sports,1,11.14,11.14,Net Banking,Chennai
+1427,C030,2023-07-22,P092,Mixer,Home & Kitchen,4,154.13,616.52,UPI,Chennai
+1508,C079,2023-11-30,P021,Wireless Mouse,Electronics,5,152.13,760.65,Debit Card,Chennai
+1775,C091,2023-03-09,P084,Lamp,Home & Kitchen,1,28.83,28.83,Net Banking,Bangalore
+1942,C179,2024-09-28,P262,Jeans,Clothing,4,426.87,1707.48,Cash on Delivery,Hyderabad
+1034,C191,2023-09-12,P147,Action Figure,Toys,1,494.57,494.57,Debit Card,Chennai
+1205,C052,2024-03-07,P257,Bluetooth Speaker,Electronics,5,419.89,2099.45,Cash on Delivery,Chennai
+1080,C166,2024-07-29,P058,Biography,Books,4,293.49,1173.96,Credit Card,Chennai
+1931,C079,2023-11-21,P015,Mixer,Home & Kitchen,2,288.81,577.62,Net Banking,Pune
+1561,C030,2023-07-20,P162,Biography,Books,4,114.01,456.04,Net Banking,Mumbai
+1871,C106,2023-02-04,P163,Vacuum Cleaner,Home & Kitchen,5,21.16,105.8,UPI,Mumbai
+1387,C051,2024-04-24,P281,Sneakers,Clothing,1,37.02,37.02,Credit Card,Pune
+1001,C081,2023-12-09,P280,Science Book,Books,1,17.45,17.45,Cash on Delivery,Kolkata
+1389,C133,2023-06-23,P012,Yoga Mat,Sports,4,455.78,1823.12,UPI,Chennai
+1565,C029,2024-08-27,P274,Lego Set,Toys,1,173.7,173.7,Credit Card,Delhi
+1105,C132,2024-05-19,P271,Jeans,Clothing,5,317.5,1587.5,Debit Card,Pune
+1771,C138,2024-03-30,P208,Puzzle,Toys,5,321.6,1608.0,UPI,Ahmedabad
+1821,C184,2024-02-10,P027,Lipstick,Beauty,4,56.59,226.36,Debit Card,Chennai
+1476,C145,2024-05-06,P072,Football,Sports,4,246.4,985.6,Credit Card,Delhi
+1702,C074,2023-12-13,P060,Sneakers,Clothing,2,139.43,278.86,UPI,Ahmedabad
+1401,C017,2023-03-28,P145,Moisturizer,Beauty,1,255.6,255.6,UPI,Hyderabad
+1729,C084,2024-07-26,P093,Lego Set,Toys,1,6.45,6.45,Credit Card,Hyderabad
+1555,C069,2023-10-10,P008,Bluetooth Speaker,Electronics,4,304.02,1216.08,Debit Card,Hyderabad
+1161,C034,2024-03-24,P079,Vacuum Cleaner,Home & Kitchen,3,142.02,426.06,Cash on Delivery,Chennai
+1201,C006,2024-02-28,P027,Biography,Books,1,169.02,169.02,Net Banking,Chennai
+1957,C053,2023-02-18,P174,Vacuum Cleaner,Home & Kitchen,3,226.5,679.5,Debit Card,Pune
+1995,C194,2024-07-08,P050,Running Shoes,Sports,1,113.44,113.44,UPI,Kolkata
+1269,C126,2024-08-24,P199,Action Figure,Toys,4,58.47,233.88,Cash on Delivery,Delhi
+1862,C043,2023-11-14,P181,Bluetooth Speaker,Electronics,5,222.08,1110.4,Credit Card,Delhi
+1815,C115,2024-01-17,P024,Running Shoes,Sports,2,150.28,300.56,Credit Card,Bangalore
+1270,C111,2024-07-02,P046,Football,Sports,1,201.52,201.52,Debit Card,Hyderabad
+1455,C151,2024-07-24,P015,Football,Sports,1,310.45,310.45,Credit Card,Ahmedabad
+1461,C183,2024-05-08,P153,Bluetooth Speaker,Electronics,1,19.69,19.69,Cash on Delivery,Chennai
+1726,C080,2023-05-07,P222,Cookware Set,Home & Kitchen,3,228.05,684.15,Net Banking,Kolkata
+1251,C095,2024-09-11,P206,Biography,Books,5,200.32,1001.6,UPI,Hyderabad
+1701,C118,2024-03-31,P273,Running Shoes,Sports,3,208.46,625.38,Credit Card,Chennai
+1295,C144,2023-09-25,P236,Power Bank,Electronics,5,358.45,1792.25,Debit Card,Hyderabad
+1724,C008,2023-10-28,P228,Action Figure,Toys,5,158.14,790.7,Net Banking,Mumbai
+1719,C132,2023-09-07,P009,Nail Polish,Beauty,2,477.75,955.5,Debit Card,Kolkata
+1748,C104,2023-06-23,P166,Cookbook,Books,5,5.77,28.85,Net Banking,Mumbai
+1337,C132,2023-11-20,P214,Doll,Toys,5,415.65,2078.25,Credit Card,Chennai
+1878,C184,2024-08-16,P117,Sneakers,Clothing,1,230.84,230.84,Credit Card,Chennai
+1052,C025,2024-02-16,P072,Cricket Bat,Sports,5,64.91,324.55,Cash on Delivery,Ahmedabad
+1791,C195,2023-11-28,P064,Board Game,Toys,4,450.66,1802.64,UPI,Chennai
+1921,C096,2023-02-10,P205,Yoga Mat,Sports,2,163.94,327.88,Net Banking,Hyderabad
+1216,C195,2023-04-15,P209,Science Book,Books,2,335.94,671.88,Debit Card,Pune
+1763,C155,2023-09-23,P072,Headphones,Electronics,2,184.15,368.3,Cash on Delivery,Ahmedabad
+1187,C093,2024-01-12,P277,Yoga Mat,Sports,2,73.74,147.48,Debit Card,Bangalore
+1379,C160,2024-03-29,P274,Vacuum Cleaner,Home & Kitchen,4,90.06,360.24,Debit Card,Mumbai
+1492,C178,2024-08-27,P095,Vacuum Cleaner,Home & Kitchen,3,371.79,1115.37,Debit Card,Kolkata
+1040,C061,2023-10-23,P166,Cookware Set,Home & Kitchen,3,269.31,807.93,UPI,Hyderabad
+1156,C122,2023-09-25,P032,Board Game,Toys,2,10.79,21.58,Cash on Delivery,Hyderabad
+1014,C051,2023-11-07,P011,Board Game,Toys,3,227.18,681.54,UPI,Bangalore
+1812,C147,2023-12-23,P217,Coffee Maker,Home & Kitchen,5,202.69,1013.45,UPI,Ahmedabad
+1064,C021,2023-05-07,P289,Football,Sports,5,404.97,2024.85,Credit Card,Hyderabad
+1856,C005,2024-05-19,P102,Lego Set,Toys,1,365.94,365.94,Debit Card,Hyderabad
+1838,C092,2023-04-17,P267,Power Bank,Electronics,4,196.76,787.04,Debit Card,Chennai
+1520,C170,2024-03-04,P214,Football,Sports,2,204.93,409.86,UPI,Ahmedabad
+1343,C061,2024-09-25,P179,Jeans,Clothing,1,156.63,156.63,Debit Card,Bangalore
+1128,C022,2024-03-26,P088,Puzzle,Toys,4,117.01,468.04,Debit Card,Chennai
+1647,C149,2023-02-10,P041,Nail Polish,Beauty,3,429.49,1288.47,Credit Card,Kolkata
+1471,C070,2023-04-28,P076,Comics,Books,3,293.19,879.57,Credit Card,Bangalore
+1062,C001,2023-10-17,P046,Headphones,Electronics,4,199.52,798.08,Credit Card,Delhi
+1138,C133,2023-07-15,P160,Nail Polish,Beauty,4,218.11,872.44,Debit Card,Pune
+1498,C012,2023-07-12,P080,Moisturizer,Beauty,5,445.6,2228.0,Net Banking,Mumbai
+1592,C090,2023-07-21,P086,Cricket Bat,Sports,4,173.19,692.76,Cash on Delivery,Kolkata
+1391,C046,2024-02-23,P092,Wireless Mouse,Electronics,4,192.56,770.24,Net Banking,Chennai
+1674,C034,2024-04-19,P148,Cookware Set,Home & Kitchen,3,196.01,588.03,Credit Card,Bangalore
+1418,C177,2024-07-29,P161,Lipstick,Beauty,3,159.05,477.15,UPI,Pune
+1288,C078,2024-09-19,P202,Fiction Novel,Books,5,267.89,1339.45,UPI,Hyderabad
+1378,C045,2023-01-31,P242,Board Game,Toys,4,282.05,1128.2,Net Banking,Ahmedabad
+1772,C155,2024-03-09,P002,Nail Polish,Beauty,4,87.84,351.36,UPI,Hyderabad
+1489,C073,2023-12-10,P225,Lipstick,Beauty,5,118.1,590.5,UPI,Delhi
+1230,C026,2024-07-10,P289,Jeans,Clothing,3,268.3,804.9,Net Banking,Kolkata
+1040,C047,2024-03-05,P233,Science Book,Books,4,54.15,216.6,Debit Card,Bangalore
+1027,C121,2023-08-22,P077,Running Shoes,Sports,3,197.05,591.15,UPI,Ahmedabad
+1134,C056,2023-05-05,P116,Lego Set,Toys,3,16.56,49.68,Debit Card,Kolkata
+1200,C094,2024-04-29,P154,Hat,Clothing,5,148.18,740.9,UPI,Kolkata
+1839,C107,2023-06-19,P103,Board Game,Toys,2,62.49,124.98,Net Banking,Kolkata
+1779,C063,2023-03-28,P194,Running Shoes,Sports,4,160.41,641.64,Net Banking,Pune
+1929,C048,2023-07-20,P166,Jeans,Clothing,4,497.45,1989.8,Debit Card,Ahmedabad
+1032,C061,2023-02-28,P090,Hat,Clothing,1,48.66,48.66,Cash on Delivery,Bangalore
+1047,C081,2023-10-05,P174,Wireless Mouse,Electronics,4,20.31,81.24,Net Banking,Chennai
+1502,C026,2024-05-03,P122,T-Shirt,Clothing,4,490.15,1960.6,Credit Card,Ahmedabad
+1406,C036,2023-12-31,P143,Biography,Books,1,268.47,268.47,Credit Card,Ahmedabad
+1573,C001,2024-07-07,P106,Smartphone,Electronics,5,417.66,2088.3,Credit Card,Delhi
+1727,C008,2024-07-16,P123,Lego Set,Toys,2,133.37,266.74,Cash on Delivery,Delhi
+1804,C113,2024-01-18,P009,Smartphone,Electronics,2,33.54,67.08,Net Banking,Chennai
+1098,C099,2023-05-19,P262,Smartphone,Electronics,4,121.34,485.36,Debit Card,Hyderabad
+1683,C180,2024-08-26,P073,Tennis Racket,Sports,4,176.9,707.6,Net Banking,Chennai
+1871,C047,2023-04-21,P223,Shampoo,Beauty,5,224.8,1124.0,Credit Card,Ahmedabad
+1725,C127,2024-03-10,P041,Coffee Maker,Home & Kitchen,2,247.0,494.0,Cash on Delivery,Hyderabad
+1986,C056,2023-04-14,P204,Hat,Clothing,5,496.95,2484.75,Net Banking,Ahmedabad
+1546,C014,2023-06-14,P264,Jacket,Clothing,1,397.3,397.3,Cash on Delivery,Mumbai
+1960,C028,2024-05-31,P178,Sneakers,Clothing,5,78.25,391.25,Net Banking,Hyderabad
+1738,C078,2023-03-05,P084,Nail Polish,Beauty,1,356.89,356.89,UPI,Bangalore
+1612,C130,2023-09-24,P111,Shampoo,Beauty,3,455.18,1365.54,UPI,Chennai
+1942,C109,2023-09-03,P251,Lipstick,Beauty,5,231.94,1159.7,Credit Card,Bangalore
+1461,C154,2024-05-01,P007,Lego Set,Toys,5,374.2,1871.0,Cash on Delivery,Kolkata
+1642,C014,2023-07-03,P084,Lamp,Home & Kitchen,4,33.58,134.32,Debit Card,Mumbai
+1768,C187,2024-06-07,P208,Lipstick,Beauty,4,236.06,944.24,Credit Card,Bangalore
+1004,C056,2023-10-31,P022,Football,Sports,1,474.81,474.81,UPI,Pune
+1217,C115,2024-08-04,P003,Coffee Maker,Home & Kitchen,4,244.29,977.16,UPI,Hyderabad
+1502,C007,2024-08-09,P127,Bluetooth Speaker,Electronics,2,248.25,496.5,UPI,Mumbai
+1766,C003,2024-02-11,P297,Puzzle,Toys,1,283.54,283.54,Debit Card,Ahmedabad
+1397,C111,2024-05-13,P188,Moisturizer,Beauty,3,258.08,774.24,Cash on Delivery,Bangalore
+1870,C151,2023-03-23,P014,Tennis Racket,Sports,2,364.23,728.46,Cash on Delivery,Delhi
+1794,C107,2023-12-31,P012,Sneakers,Clothing,4,414.62,1658.48,UPI,Mumbai
+1392,C018,2023-11-25,P087,Nail Polish,Beauty,3,104.23,312.69,Net Banking,Bangalore
+1206,C038,2023-12-03,P012,Smartphone,Electronics,4,6.57,26.28,Net Banking,Mumbai
+1014,C115,2023-05-27,P025,Sneakers,Clothing,1,152.73,152.73,UPI,Mumbai
+1857,C015,2023-01-13,P243,Cookbook,Books,3,226.92,680.76,Credit Card,Delhi
+1553,C192,2023-04-24,P122,Jacket,Clothing,5,463.56,2317.8,Net Banking,Mumbai
+1891,C119,2024-07-19,P147,Jeans,Clothing,5,20.12,100.6,UPI,Kolkata
+1460,C028,2023-05-06,P055,Cricket Bat,Sports,2,71.55,143.1,UPI,Mumbai
+1690,C039,2023-07-13,P238,Headphones,Electronics,5,182.56,912.8,Cash on Delivery,Mumbai
+1574,C185,2023-10-13,P173,Lego Set,Toys,1,142.99,142.99,Debit Card,Ahmedabad
+1863,C017,2023-06-12,P221,Wireless Mouse,Electronics,1,397.73,397.73,Credit Card,Kolkata
+1742,C086,2023-04-23,P119,Action Figure,Toys,3,104.32,312.96,Credit Card,Delhi
+1240,C126,2023-01-25,P183,Wireless Mouse,Electronics,3,370.25,1110.75,Debit Card,Mumbai
+1563,C044,2024-07-02,P288,Cricket Bat,Sports,5,371.54,1857.7,UPI,Delhi
+1095,C025,2023-07-07,P082,Tennis Racket,Sports,5,377.95,1889.75,Cash on Delivery,Hyderabad
+1899,C145,2024-06-30,P211,Perfume,Beauty,1,384.23,384.23,Credit Card,Kolkata
+1733,C013,2024-06-18,P150,Science Book,Books,2,56.68,113.36,Cash on Delivery,Kolkata
+1484,C025,2024-01-19,P037,Power Bank,Electronics,1,362.96,362.96,UPI,Ahmedabad
+1406,C068,2023-12-24,P059,Cookware Set,Home & Kitchen,4,206.52,826.08,Credit Card,Bangalore
+1230,C138,2023-07-07,P131,Cookbook,Books,3,177.67,533.01,Credit Card,Bangalore
+1748,C067,2023-10-17,P202,Cookware Set,Home & Kitchen,5,474.11,2370.55,UPI,Ahmedabad
+1654,C109,2023-05-03,P243,Sneakers,Clothing,5,477.78,2388.9,Credit Card,Hyderabad
+1170,C146,2024-01-10,P035,Tennis Racket,Sports,2,43.05,86.1,UPI,Delhi
+1540,C111,2023-12-24,P093,Comics,Books,2,398.29,796.58,Debit Card,Kolkata
+1035,C111,2024-04-18,P207,Jeans,Clothing,4,76.87,307.48,Net Banking,Pune
+1524,C034,2024-05-22,P213,Jacket,Clothing,5,335.09,1675.45,Net Banking,Pune
+1159,C111,2023-08-03,P159,Lamp,Home & Kitchen,2,144.1,288.2,Cash on Delivery,Chennai
+1838,C008,2023-08-19,P024,Comics,Books,3,15.9,47.7,Debit Card,Chennai
+1698,C168,2023-08-21,P293,Comics,Books,5,421.9,2109.5,UPI,Chennai
+1242,C113,2024-02-07,P004,Cookbook,Books,5,21.67,108.35,UPI,Mumbai
+1085,C083,2023-10-08,P220,Smartphone,Electronics,5,210.98,1054.9,Net Banking,Mumbai
+1795,C042,2024-06-27,P020,Headphones,Electronics,1,361.3,361.3,Cash on Delivery,Kolkata
+1577,C169,2024-03-31,P152,Doll,Toys,2,295.0,590.0,Cash on Delivery,Delhi
+1681,C101,2023-01-14,P050,Coffee Maker,Home & Kitchen,4,320.36,1281.44,Debit Card,Delhi
+1556,C006,2023-02-22,P177,Cricket Bat,Sports,2,358.41,716.82,Debit Card,Kolkata
+1573,C180,2024-04-15,P096,T-Shirt,Clothing,4,75.72,302.88,Net Banking,Chennai
+1952,C026,2023-10-17,P105,Vacuum Cleaner,Home & Kitchen,2,203.72,407.44,Cash on Delivery,Kolkata
+1645,C064,2024-09-30,P250,Wireless Mouse,Electronics,2,412.77,825.54,Debit Card,Bangalore
+1795,C187,2024-07-14,P117,Coffee Maker,Home & Kitchen,3,139.42,418.26,Cash on Delivery,Bangalore
+1027,C184,2023-06-03,P228,Lipstick,Beauty,1,5.07,5.07,Net Banking,Ahmedabad
+1619,C059,2023-10-21,P066,Nail Polish,Beauty,2,141.7,283.4,Net Banking,Kolkata
+1555,C109,2024-01-25,P262,Moisturizer,Beauty,1,36.03,36.03,Debit Card,Chennai
+1339,C198,2023-06-06,P295,Hat,Clothing,5,470.52,2352.6,Net Banking,Hyderabad
+1797,C121,2024-07-30,P243,Nail Polish,Beauty,4,55.44,221.76,Credit Card,Mumbai
+1957,C033,2024-03-03,P186,Football,Sports,3,138.84,416.52,UPI,Kolkata
+1330,C181,2023-05-21,P246,Lamp,Home & Kitchen,4,395.52,1582.08,Cash on Delivery,Pune
+1639,C150,2024-09-15,P125,Science Book,Books,3,455.42,1366.26,UPI,Chennai
+1505,C021,2024-02-05,P268,Jacket,Clothing,4,339.19,1356.76,Net Banking,Bangalore
+1347,C198,2024-09-23,P131,Mixer,Home & Kitchen,2,25.93,51.86,UPI,Pune
+1472,C070,2023-08-23,P237,Sneakers,Clothing,2,73.86,147.72,Cash on Delivery,Bangalore
+1230,C112,2024-06-19,P018,Bluetooth Speaker,Electronics,5,95.49,477.45,Cash on Delivery,Kolkata
+1189,C004,2024-03-27,P040,Coffee Maker,Home & Kitchen,4,69.15,276.6,Cash on Delivery,Hyderabad
+1224,C094,2024-06-16,P021,Hat,Clothing,1,152.54,152.54,Debit Card,Delhi
+1384,C075,2023-10-20,P225,Lamp,Home & Kitchen,4,392.0,1568.0,Cash on Delivery,Kolkata
+1376,C190,2024-05-16,P282,Mixer,Home & Kitchen,2,56.88,113.76,Net Banking,Kolkata
+1282,C062,2023-12-21,P008,Hat,Clothing,4,433.58,1734.32,Credit Card,Mumbai
+1957,C094,2023-08-15,P100,Fiction Novel,Books,2,319.04,638.08,Cash on Delivery,Mumbai
+1632,C095,2024-03-30,P240,Moisturizer,Beauty,4,6.43,25.72,Debit Card,Bangalore
+1627,C152,2024-02-01,P087,Nail Polish,Beauty,1,97.08,97.08,Cash on Delivery,Hyderabad
+1972,C055,2024-06-11,P298,Running Shoes,Sports,4,425.92,1703.68,Cash on Delivery,Hyderabad
+1744,C137,2024-04-03,P014,Shampoo,Beauty,1,330.39,330.39,Credit Card,Ahmedabad
+1258,C131,2023-06-22,P002,Moisturizer,Beauty,1,399.14,399.14,UPI,Delhi
+1358,C031,2023-09-20,P293,Coffee Maker,Home & Kitchen,5,151.17,755.85,Net Banking,Ahmedabad
+1709,C040,2023-01-28,P041,Nail Polish,Beauty,4,370.61,1482.44,Credit Card,Bangalore
+1455,C036,2024-06-23,P111,Nail Polish,Beauty,4,30.84,123.36,Net Banking,Ahmedabad
+1410,C152,2023-09-09,P014,Shampoo,Beauty,1,445.66,445.66,Cash on Delivery,Delhi
+1648,C006,2023-11-09,P231,Yoga Mat,Sports,3,187.05,561.15,Debit Card,Pune
+1317,C066,2024-07-18,P084,Bluetooth Speaker,Electronics,1,60.2,60.2,UPI,Hyderabad
+1676,C075,2024-08-08,P130,Science Book,Books,4,54.43,217.72,Cash on Delivery,Ahmedabad
+1224,C004,2024-02-02,P231,Nail Polish,Beauty,5,192.65,963.25,Net Banking,Delhi
+1818,C079,2024-01-22,P145,Cookbook,Books,2,20.55,41.1,Cash on Delivery,Chennai
+1233,C134,2024-06-19,P028,Power Bank,Electronics,1,453.5,453.5,Debit Card,Delhi
+1683,C118,2024-01-13,P066,Power Bank,Electronics,5,234.73,1173.65,Credit Card,Kolkata
+1663,C113,2023-04-29,P163,Coffee Maker,Home & Kitchen,4,201.84,807.36,Net Banking,Mumbai
+1974,C094,2024-04-09,P229,Biography,Books,4,137.29,549.16,Credit Card,Hyderabad
+1826,C179,2024-05-16,P261,Lamp,Home & Kitchen,4,488.13,1952.52,UPI,Chennai
+1373,C062,2023-06-24,P164,Sneakers,Clothing,5,42.81,214.05,Cash on Delivery,Hyderabad
+1671,C185,2023-05-14,P287,Bluetooth Speaker,Electronics,1,64.5,64.5,Debit Card,Hyderabad
+1607,C194,2023-02-24,P010,Board Game,Toys,5,174.19,870.95,UPI,Mumbai
+1471,C079,2024-09-29,P195,Doll,Toys,2,115.52,231.04,Credit Card,Ahmedabad
+1232,C136,2024-07-08,P118,Action Figure,Toys,4,5.67,22.68,Cash on Delivery,Hyderabad
+1691,C026,2023-08-16,P270,Coffee Maker,Home & Kitchen,5,325.0,1625.0,UPI,Bangalore
+1112,C179,2023-11-27,P080,T-Shirt,Clothing,3,16.68,50.04,UPI,Pune
+1829,C173,2024-05-18,P093,Wireless Mouse,Electronics,1,305.04,305.04,Credit Card,Bangalore
+1496,C044,2024-09-07,P266,Cookbook,Books,5,202.01,1010.05,Net Banking,Delhi
+1441,C133,2023-06-06,P257,Doll,Toys,3,356.52,1069.56,Credit Card,Hyderabad
+1563,C070,2023-07-24,P133,Cookware Set,Home & Kitchen,2,303.63,607.26,Debit Card,Pune
+1267,C154,2023-08-06,P276,Lipstick,Beauty,4,239.54,958.16,Cash on Delivery,Chennai
+1509,C118,2024-01-28,P264,Nail Polish,Beauty,4,479.11,1916.44,Net Banking,Kolkata
+1806,C068,2024-03-09,P171,Action Figure,Toys,5,267.71,1338.55,Net Banking,Pune
+1385,C019,2024-06-23,P001,Running Shoes,Sports,3,481.57,1444.71,UPI,Kolkata
+1386,C020,2023-03-31,P064,Jacket,Clothing,1,106.47,106.47,Credit Card,Kolkata
+1112,C113,2024-03-16,P284,Sneakers,Clothing,4,311.77,1247.08,Credit Card,Pune
+1612,C140,2024-05-21,P121,T-Shirt,Clothing,2,424.36,848.72,Cash on Delivery,Bangalore
+1624,C047,2024-04-05,P107,Perfume,Beauty,5,141.74,708.7,Credit Card,Ahmedabad
+1951,C001,2023-03-09,P175,Action Figure,Toys,5,266.0,1330.0,Credit Card,Mumbai
+1080,C090,2023-02-18,P204,Bluetooth Speaker,Electronics,4,323.2,1292.8,Credit Card,Kolkata
+1698,C142,2024-03-13,P165,Headphones,Electronics,4,171.98,687.92,Debit Card,Kolkata
+1112,C064,2023-06-08,P120,Hat,Clothing,4,271.71,1086.84,UPI,Ahmedabad
+1001,C038,2023-01-05,P044,Smartphone,Electronics,1,346.55,346.55,Credit Card,Bangalore
+1641,C037,2024-04-03,P156,Moisturizer,Beauty,4,317.31,1269.24,Cash on Delivery,Hyderabad
+1219,C126,2023-01-15,P207,Cookbook,Books,1,479.18,479.18,Net Banking,Hyderabad
+1565,C139,2024-07-11,P108,Coffee Maker,Home & Kitchen,5,474.79,2373.95,Credit Card,Bangalore
+1854,C100,2024-07-27,P251,Comics,Books,5,312.35,1561.75,Debit Card,Chennai
+1996,C077,2023-10-29,P130,Headphones,Electronics,2,275.7,551.4,Net Banking,Ahmedabad
+1735,C003,2023-01-03,P293,Fiction Novel,Books,5,232.01,1160.05,Cash on Delivery,Ahmedabad
+1224,C161,2024-05-07,P020,Tennis Racket,Sports,5,243.26,1216.3,Net Banking,Chennai
+1384,C134,2023-11-27,P282,Biography,Books,3,338.8,1016.4,Net Banking,Kolkata
+1402,C178,2024-05-06,P285,T-Shirt,Clothing,5,265.98,1329.9,Net Banking,Bangalore
+1637,C010,2023-09-09,P001,Nail Polish,Beauty,1,102.48,102.48,Cash on Delivery,Hyderabad
+1129,C005,2023-11-28,P119,Wireless Mouse,Electronics,3,490.67,1472.01,Net Banking,Kolkata
+1052,C151,2023-10-01,P035,Cricket Bat,Sports,3,232.19,696.57,Net Banking,Pune
+1683,C138,2023-06-03,P198,Cookbook,Books,3,92.17,276.51,Debit Card,Kolkata
+1729,C172,2024-07-24,P245,Board Game,Toys,4,415.55,1662.2,Credit Card,Ahmedabad
+1671,C130,2024-09-10,P059,Lipstick,Beauty,5,472.13,2360.65,UPI,Mumbai
+1709,C013,2024-03-25,P161,Vacuum Cleaner,Home & Kitchen,3,263.12,789.36,Cash on Delivery,Kolkata
+1415,C168,2023-05-21,P179,T-Shirt,Clothing,2,379.87,759.74,UPI,Ahmedabad
+1246,C130,2023-12-18,P206,Coffee Maker,Home & Kitchen,2,241.07,482.14,Cash on Delivery,Mumbai
+1835,C084,2024-03-02,P012,Cookbook,Books,4,127.43,509.72,Net Banking,Ahmedabad
+1438,C065,2024-08-22,P276,Cricket Bat,Sports,1,85.54,85.54,Net Banking,Kolkata
+1202,C063,2023-03-27,P181,Moisturizer,Beauty,2,386.96,773.92,UPI,Hyderabad
+1183,C101,2023-03-15,P242,Bluetooth Speaker,Electronics,4,10.99,43.96,Net Banking,Pune
+1122,C073,2024-05-26,P216,Fiction Novel,Books,4,181.73,726.92,Cash on Delivery,Delhi
+1400,C017,2023-06-20,P251,Lamp,Home & Kitchen,4,118.2,472.8,Net Banking,Hyderabad
+1766,C009,2023-11-18,P299,T-Shirt,Clothing,5,114.93,574.65,Debit Card,Pune
+1293,C143,2023-06-04,P126,Tennis Racket,Sports,3,130.64,391.92,Net Banking,Mumbai
+1279,C152,2023-06-22,P217,Cookbook,Books,1,204.37,204.37,Debit Card,Delhi
+1836,C038,2024-03-13,P285,Comics,Books,2,451.18,902.36,UPI,Kolkata
+1883,C163,2023-05-09,P185,Lamp,Home & Kitchen,3,477.65,1432.95,UPI,Ahmedabad
+1609,C094,2024-02-08,P039,Smartphone,Electronics,1,381.7,381.7,Cash on Delivery,Hyderabad
+1197,C095,2024-09-02,P223,Bluetooth Speaker,Electronics,5,21.15,105.75,Credit Card,Pune
+1981,C049,2023-01-17,P184,Mixer,Home & Kitchen,1,224.96,224.96,Net Banking,Kolkata
+1906,C069,2023-04-01,P178,Tennis Racket,Sports,2,496.26,992.52,Net Banking,Kolkata
+1510,C062,2023-04-24,P294,Puzzle,Toys,2,330.03,660.06,Cash on Delivery,Kolkata
+1751,C188,2024-02-08,P151,Mixer,Home & Kitchen,1,99.84,99.84,Cash on Delivery,Hyderabad
+1143,C178,2023-11-11,P126,Nail Polish,Beauty,4,18.62,74.48,Net Banking,Pune
+1608,C078,2023-07-12,P234,Jacket,Clothing,3,377.13,1131.39,Cash on Delivery,Ahmedabad
+1200,C117,2024-08-02,P008,Headphones,Electronics,1,78.35,78.35,Debit Card,Kolkata
+1123,C120,2023-04-09,P129,Biography,Books,5,360.98,1804.9,Debit Card,Chennai
+1186,C137,2024-02-07,P264,Mixer,Home & Kitchen,4,380.59,1522.36,Net Banking,Hyderabad
+1325,C162,2023-10-30,P157,Biography,Books,5,179.76,898.8,Credit Card,Bangalore
+1463,C076,2024-02-09,P005,Tennis Racket,Sports,2,446.82,893.64,Net Banking,Pune
+1348,C035,2023-03-25,P086,Biography,Books,4,412.46,1649.84,UPI,Hyderabad
+1770,C001,2023-08-09,P175,Sneakers,Clothing,2,106.32,212.64,Cash on Delivery,Pune
+1659,C040,2023-04-22,P290,Football,Sports,1,151.37,151.37,Net Banking,Ahmedabad
+1763,C064,2024-04-19,P193,Lamp,Home & Kitchen,4,319.84,1279.36,Net Banking,Mumbai
+1954,C150,2024-02-25,P119,Running Shoes,Sports,4,151.14,604.56,UPI,Mumbai
+1931,C060,2023-10-07,P218,Headphones,Electronics,1,207.66,207.66,Cash on Delivery,Pune
+1402,C064,2023-07-08,P114,Fiction Novel,Books,3,418.73,1256.19,UPI,Chennai
+1345,C093,2024-06-19,P145,Jacket,Clothing,4,348.34,1393.36,Cash on Delivery,Hyderabad
+1962,C072,2023-10-17,P026,Wireless Mouse,Electronics,2,413.27,826.54,UPI,Kolkata
+1510,C011,2023-06-30,P136,Vacuum Cleaner,Home & Kitchen,1,234.33,234.33,Cash on Delivery,Hyderabad
+1146,C105,2024-08-03,P232,Action Figure,Toys,4,215.49,861.96,UPI,Chennai
+1147,C014,2024-05-23,P076,Perfume,Beauty,5,383.95,1919.75,Debit Card,Ahmedabad
+1863,C060,2023-11-22,P289,Comics,Books,1,35.36,35.36,Cash on Delivery,Bangalore
+1710,C030,2024-01-26,P001,Mixer,Home & Kitchen,5,362.95,1814.75,Debit Card,Delhi
+1819,C035,2024-05-29,P147,Sneakers,Clothing,5,155.45,777.25,Cash on Delivery,Bangalore
+1488,C165,2023-02-07,P287,Jeans,Clothing,3,30.69,92.07,Credit Card,Hyderabad
+1928,C005,2023-06-18,P142,Lipstick,Beauty,3,333.21,999.63,Debit Card,Hyderabad
+1935,C083,2023-11-02,P053,Bluetooth Speaker,Electronics,5,380.74,1903.7,Cash on Delivery,Hyderabad
+1639,C123,2024-02-15,P069,Cookbook,Books,5,357.75,1788.75,Cash on Delivery,Kolkata
+1550,C078,2024-01-17,P090,Smartphone,Electronics,3,94.9,284.7,Cash on Delivery,Hyderabad
+1337,C154,2024-07-04,P220,Cookware Set,Home & Kitchen,3,499.77,1499.31,Debit Card,Chennai
+1871,C062,2023-09-29,P192,Nail Polish,Beauty,5,273.52,1367.6,Credit Card,Chennai
+1640,C132,2023-07-21,P063,Action Figure,Toys,3,210.16,630.48,Cash on Delivery,Chennai
+1778,C089,2023-09-11,P073,Lamp,Home & Kitchen,3,138.16,414.48,UPI,Kolkata
+1987,C042,2024-04-24,P161,Cricket Bat,Sports,1,138.08,138.08,Debit Card,Kolkata
+1952,C089,2024-07-13,P169,Moisturizer,Beauty,2,243.52,487.04,Net Banking,Bangalore
+1472,C146,2024-09-26,P089,Perfume,Beauty,4,317.92,1271.68,Net Banking,Bangalore
+1945,C040,2023-07-10,P176,Action Figure,Toys,5,282.25,1411.25,Cash on Delivery,Hyderabad
+1150,C072,2023-03-22,P269,Doll,Toys,1,90.18,90.18,Credit Card,Pune
+1414,C039,2023-07-13,P073,Board Game,Toys,1,227.16,227.16,Credit Card,Bangalore
+1989,C104,2024-02-11,P245,Moisturizer,Beauty,3,402.74,1208.22,Credit Card,Kolkata
+1297,C014,2024-09-29,P077,Lego Set,Toys,2,365.85,731.7,Cash on Delivery,Hyderabad
+1610,C032,2024-04-21,P159,Sneakers,Clothing,1,140.67,140.67,Net Banking,Hyderabad
+1262,C179,2023-09-19,P098,Lego Set,Toys,1,175.94,175.94,Debit Card,Mumbai
+1763,C125,2024-05-29,P102,Lipstick,Beauty,4,489.37,1957.48,Cash on Delivery,Mumbai
+1143,C166,2023-03-17,P132,Nail Polish,Beauty,1,352.08,352.08,Cash on Delivery,Bangalore
+1345,C097,2023-03-06,P102,Cricket Bat,Sports,5,473.81,2369.05,Net Banking,Pune
+1623,C023,2023-04-10,P019,Fiction Novel,Books,1,193.36,193.36,Cash on Delivery,Delhi
+1571,C063,2023-02-12,P082,Cricket Bat,Sports,4,195.26,781.04,UPI,Delhi
+1880,C143,2023-03-19,P279,Biography,Books,4,66.57,266.28,Net Banking,Pune
+1001,C153,2023-11-11,P129,Moisturizer,Beauty,2,309.88,619.76,Credit Card,Delhi
+1896,C145,2023-06-17,P089,Yoga Mat,Sports,5,409.48,2047.4,Credit Card,Bangalore
+1303,C194,2024-03-28,P213,Sneakers,Clothing,3,217.65,652.95,UPI,Mumbai
+1253,C053,2024-06-08,P143,Running Shoes,Sports,3,243.72,731.16,Net Banking,Ahmedabad
+1651,C104,2024-08-14,P065,Headphones,Electronics,3,476.47,1429.41,Credit Card,Delhi
+1452,C104,2023-03-30,P076,Puzzle,Toys,3,440.27,1320.81,UPI,Delhi
+1036,C179,2024-03-03,P199,Power Bank,Electronics,4,340.19,1360.76,Cash on Delivery,Pune
+1159,C039,2023-11-09,P143,Moisturizer,Beauty,2,436.35,872.7,Debit Card,Bangalore
+1008,C179,2023-07-25,P093,Sneakers,Clothing,5,40.09,200.45,UPI,Kolkata
+1232,C198,2024-08-17,P224,Lego Set,Toys,3,426.09,1278.27,Credit Card,Chennai
+1098,C134,2024-04-08,P291,Nail Polish,Beauty,3,11.02,33.06,Net Banking,Mumbai
+1658,C067,2023-01-12,P102,Moisturizer,Beauty,4,97.52,390.08,Cash on Delivery,Chennai
+1815,C135,2023-10-10,P267,Lipstick,Beauty,5,156.85,784.25,Net Banking,Pune
+1207,C179,2023-04-07,P110,Perfume,Beauty,4,312.54,1250.16,UPI,Ahmedabad
+1130,C042,2023-03-10,P265,Mixer,Home & Kitchen,5,367.69,1838.45,Credit Card,Ahmedabad
+1403,C192,2023-02-19,P003,Tennis Racket,Sports,3,181.15,543.45,Net Banking,Pune
+1151,C015,2023-07-16,P085,Action Figure,Toys,1,344.29,344.29,UPI,Hyderabad
+1053,C111,2024-07-12,P282,Shampoo,Beauty,3,33.01,99.03,Debit Card,Pune
+1119,C157,2023-03-25,P117,Science Book,Books,4,491.11,1964.44,Cash on Delivery,Mumbai
+1672,C033,2024-04-21,P221,Jeans,Clothing,3,393.71,1181.13,Cash on Delivery,Ahmedabad
+1919,C155,2023-12-04,P154,Comics,Books,4,142.54,570.16,Debit Card,Hyderabad
+1627,C164,2024-01-27,P153,Power Bank,Electronics,2,457.79,915.58,Credit Card,Kolkata
+1586,C157,2023-07-21,P012,Jacket,Clothing,2,227.81,455.62,UPI,Ahmedabad
+1624,C038,2024-07-23,P133,Science Book,Books,1,56.05,56.05,Debit Card,Mumbai
+1967,C185,2023-03-23,P293,Wireless Mouse,Electronics,5,489.58,2447.9,Debit Card,Pune
+1419,C097,2023-07-23,P228,Biography,Books,2,293.18,586.36,Credit Card,Chennai
+1421,C155,2023-04-08,P271,Headphones,Electronics,3,304.71,914.13,Net Banking,Ahmedabad
+1103,C183,2024-05-28,P043,Jacket,Clothing,1,371.38,371.38,Cash on Delivery,Hyderabad
+1851,C033,2023-06-15,P021,Board Game,Toys,4,277.06,1108.24,UPI,Pune
+1253,C196,2023-10-22,P107,Jeans,Clothing,2,303.8,607.6,Cash on Delivery,Hyderabad
+1226,C086,2023-08-18,P117,Lego Set,Toys,3,42.41,127.23,UPI,Ahmedabad
+1111,C066,2023-05-28,P124,Science Book,Books,4,152.16,608.64,UPI,Bangalore
+1509,C010,2024-04-27,P281,Perfume,Beauty,4,231.72,926.88,Credit Card,Hyderabad
+1472,C005,2023-05-14,P292,Cricket Bat,Sports,2,137.36,274.72,Cash on Delivery,Delhi
+1098,C123,2024-04-25,P203,Lego Set,Toys,3,339.63,1018.89,Credit Card,Pune
+1152,C074,2023-02-28,P051,Smartphone,Electronics,1,265.25,265.25,Debit Card,Mumbai
+1860,C097,2024-03-27,P271,Lipstick,Beauty,4,6.0,24.0,Net Banking,Kolkata
+1913,C118,2023-09-23,P277,Cookbook,Books,1,62.95,62.95,Debit Card,Bangalore
+1895,C038,2024-07-13,P141,Nail Polish,Beauty,5,472.64,2363.2,Credit Card,Kolkata
+1877,C141,2024-09-01,P275,Hat,Clothing,5,105.3,526.5,Debit Card,Kolkata
+1337,C159,2024-03-24,P290,T-Shirt,Clothing,1,29.99,29.99,Cash on Delivery,Ahmedabad
+1705,C047,2023-01-07,P052,Comics,Books,1,195.88,195.88,Cash on Delivery,Mumbai
+1821,C109,2023-03-24,P027,Cookware Set,Home & Kitchen,1,273.29,273.29,Net Banking,Bangalore
+1162,C180,2023-03-14,P157,Tennis Racket,Sports,1,114.14,114.14,Credit Card,Hyderabad
+1719,C184,2023-09-19,P239,Shampoo,Beauty,5,310.54,1552.7,Cash on Delivery,Chennai
+1956,C015,2023-02-23,P156,Jacket,Clothing,1,251.53,251.53,Credit Card,Bangalore
+1680,C157,2024-05-21,P291,Vacuum Cleaner,Home & Kitchen,2,50.85,101.7,Cash on Delivery,Kolkata
+1995,C136,2024-01-02,P136,Science Book,Books,5,457.7,2288.5,Net Banking,Kolkata
+1160,C005,2023-03-14,P144,Cricket Bat,Sports,4,220.03,880.12,Credit Card,Kolkata
+1579,C157,2023-09-05,P106,Perfume,Beauty,3,9.48,28.44,Cash on Delivery,Mumbai
+1800,C047,2024-01-12,P158,Headphones,Electronics,4,308.58,1234.32,Cash on Delivery,Mumbai
+1397,C068,2023-07-31,P146,Fiction Novel,Books,1,124.8,124.8,Cash on Delivery,Kolkata
+1276,C076,2024-01-04,P002,Headphones,Electronics,5,50.24,251.2,Net Banking,Bangalore
+1815,C173,2024-04-24,P077,Cookware Set,Home & Kitchen,5,439.35,2196.75,Debit Card,Delhi
+1915,C130,2024-07-28,P132,Jacket,Clothing,4,11.8,47.2,Credit Card,Kolkata
+1503,C155,2023-03-10,P090,Cookbook,Books,1,111.13,111.13,Cash on Delivery,Kolkata
+1895,C095,2023-10-23,P263,Coffee Maker,Home & Kitchen,3,127.54,382.62,Credit Card,Hyderabad
+1391,C115,2023-11-10,P108,Headphones,Electronics,3,232.18,696.54,UPI,Bangalore
+1134,C164,2023-12-04,P074,Puzzle,Toys,1,338.07,338.07,Debit Card,Pune
+1194,C036,2024-09-30,P039,Cookware Set,Home & Kitchen,2,443.06,886.12,Debit Card,Kolkata
+1400,C026,2023-11-15,P159,Science Book,Books,3,249.28,747.84,Cash on Delivery,Pune
+1639,C043,2024-01-22,P071,Lamp,Home & Kitchen,5,394.45,1972.25,Cash on Delivery,Pune
+1032,C027,2024-08-25,P241,Fiction Novel,Books,2,259.24,518.48,UPI,Ahmedabad
+1687,C069,2023-03-14,P298,Board Game,Toys,3,386.52,1159.56,Debit Card,Kolkata
+1459,C148,2023-10-22,P036,Sneakers,Clothing,5,294.3,1471.5,Credit Card,Kolkata
+1954,C011,2024-07-02,P084,Hat,Clothing,1,433.27,433.27,Cash on Delivery,Delhi
+1882,C074,2023-07-06,P263,Doll,Toys,1,22.33,22.33,Net Banking,Mumbai
+1469,C104,2024-07-23,P172,Cookware Set,Home & Kitchen,5,208.61,1043.05,Net Banking,Ahmedabad
+1374,C038,2024-02-24,P173,Cricket Bat,Sports,3,320.79,962.37,Debit Card,Bangalore
+1021,C134,2024-07-02,P047,Lego Set,Toys,2,326.41,652.82,Debit Card,Ahmedabad
+1749,C023,2023-03-04,P141,Nail Polish,Beauty,4,212.6,850.4,Credit Card,Kolkata
+1669,C047,2023-07-24,P118,Nail Polish,Beauty,3,301.43,904.29,Net Banking,Pune
+1037,C090,2023-05-15,P277,Bluetooth Speaker,Electronics,4,297.17,1188.68,Net Banking,Delhi
+1229,C046,2023-03-29,P214,Cookbook,Books,5,237.42,1187.1,Cash on Delivery,Kolkata
+1364,C107,2023-05-09,P220,Jacket,Clothing,4,108.96,435.84,Credit Card,Mumbai
+1562,C140,2023-05-01,P026,Power Bank,Electronics,3,207.79,623.37,Debit Card,Bangalore
+1437,C141,2023-12-07,P009,Running Shoes,Sports,1,462.39,462.39,Net Banking,Ahmedabad
+1775,C104,2023-01-21,P271,Tennis Racket,Sports,5,39.89,199.45,Credit Card,Hyderabad
+1282,C190,2024-09-12,P010,Football,Sports,2,441.44,882.88,Cash on Delivery,Delhi
+1026,C111,2023-03-10,P121,Nail Polish,Beauty,4,225.87,903.48,Net Banking,Bangalore
+1225,C104,2024-03-19,P125,Headphones,Electronics,1,158.35,158.35,Credit Card,Delhi
+1276,C060,2024-06-18,P170,Jacket,Clothing,3,259.93,779.79,Debit Card,Mumbai
+1797,C171,2023-11-15,P072,Lipstick,Beauty,1,181.66,181.66,Cash on Delivery,Mumbai
+1608,C100,2023-06-02,P152,Jeans,Clothing,2,415.14,830.28,UPI,Pune
+1283,C068,2024-06-27,P208,Bluetooth Speaker,Electronics,5,157.36,786.8,Net Banking,Ahmedabad
+1878,C133,2023-06-26,P049,Moisturizer,Beauty,5,166.74,833.7,Debit Card,Kolkata
+1959,C120,2023-04-07,P154,Lipstick,Beauty,2,139.39,278.78,UPI,Pune
+1480,C037,2023-05-17,P293,Coffee Maker,Home & Kitchen,1,55.77,55.77,Debit Card,Bangalore
+1452,C072,2023-02-08,P068,Tennis Racket,Sports,3,415.29,1245.87,Debit Card,Hyderabad
+1828,C127,2024-03-01,P050,Jacket,Clothing,1,430.11,430.11,Cash on Delivery,Pune
+1815,C106,2024-02-18,P152,Perfume,Beauty,1,175.67,175.67,Cash on Delivery,Chennai
+1658,C092,2024-04-01,P019,Lamp,Home & Kitchen,1,11.56,11.56,Debit Card,Delhi
+1515,C031,2024-08-21,P100,Lamp,Home & Kitchen,5,232.3,1161.5,UPI,Bangalore
+1546,C122,2024-01-07,P060,Hat,Clothing,5,362.35,1811.75,Cash on Delivery,Kolkata
+1191,C137,2024-09-07,P167,Lamp,Home & Kitchen,5,86.82,434.1,Net Banking,Mumbai
+1048,C051,2024-09-11,P202,Lego Set,Toys,5,360.78,1803.9,Net Banking,Pune
+1511,C029,2023-10-16,P146,Running Shoes,Sports,2,151.91,303.82,UPI,Bangalore
+1016,C040,2024-02-20,P164,Football,Sports,1,210.03,210.03,Credit Card,Pune
+1171,C041,2024-09-25,P242,Nail Polish,Beauty,2,441.42,882.84,UPI,Kolkata
+1219,C011,2023-04-25,P069,Doll,Toys,2,319.15,638.3,Credit Card,Delhi
+1157,C151,2023-08-22,P175,T-Shirt,Clothing,4,63.62,254.48,Credit Card,Delhi
+1476,C001,2023-09-04,P049,Lipstick,Beauty,4,158.95,635.8,Debit Card,Pune
+1045,C046,2024-01-17,P108,Science Book,Books,3,171.16,513.48,Debit Card,Ahmedabad
+1372,C101,2023-12-29,P226,Moisturizer,Beauty,4,288.1,1152.4,Credit Card,Bangalore
+1517,C149,2023-10-16,P161,Moisturizer,Beauty,5,210.29,1051.45,UPI,Bangalore
+1098,C090,2023-11-26,P119,Power Bank,Electronics,1,272.75,272.75,Cash on Delivery,Kolkata
+1891,C110,2023-12-20,P149,Perfume,Beauty,2,89.99,179.98,UPI,Chennai
+1744,C164,2023-04-03,P150,Puzzle,Toys,3,275.61,826.83,Cash on Delivery,Bangalore
+1036,C182,2023-09-02,P293,Yoga Mat,Sports,5,349.83,1749.15,UPI,Kolkata
+1279,C057,2024-10-01,P143,Coffee Maker,Home & Kitchen,5,171.92,859.6,UPI,Chennai
+1348,C001,2023-09-26,P160,Comics,Books,2,258.58,517.16,Debit Card,Bangalore
+1496,C063,2024-03-26,P011,Yoga Mat,Sports,5,383.58,1917.9,Net Banking,Delhi
+1301,C182,2023-07-12,P138,Jacket,Clothing,2,256.36,512.72,Debit Card,Ahmedabad
+1180,C055,2023-06-20,P078,Jeans,Clothing,1,307.61,307.61,UPI,Mumbai
+1606,C115,2024-01-22,P077,Lamp,Home & Kitchen,1,338.26,338.26,Debit Card,Bangalore
+1098,C168,2024-02-20,P254,Cricket Bat,Sports,5,316.07,1580.35,Credit Card,Bangalore
+1699,C143,2023-01-25,P258,Football,Sports,2,130.37,260.74,Debit Card,Chennai
+1992,C149,2023-04-03,P291,Lamp,Home & Kitchen,4,350.15,1400.6,Debit Card,Kolkata
+1115,C175,2024-02-29,P263,Cricket Bat,Sports,1,437.71,437.71,Cash on Delivery,Chennai
+1190,C053,2024-09-21,P085,Science Book,Books,3,68.06,204.18,Net Banking,Hyderabad
+1252,C137,2024-02-17,P146,Jacket,Clothing,1,268.13,268.13,Debit Card,Kolkata
+1980,C180,2024-03-04,P042,Running Shoes,Sports,3,411.2,1233.6,Cash on Delivery,Delhi
+1927,C057,2024-06-25,P125,Mixer,Home & Kitchen,3,11.62,34.86,UPI,Bangalore
+1982,C117,2024-03-10,P167,Moisturizer,Beauty,1,402.75,402.75,Credit Card,Delhi
+1160,C154,2024-06-17,P241,Jeans,Clothing,2,38.15,76.3,Cash on Delivery,Bangalore
+1255,C169,2023-10-19,P280,Shampoo,Beauty,4,94.95,379.8,Debit Card,Pune
+1322,C035,2023-02-18,P188,Vacuum Cleaner,Home & Kitchen,4,275.06,1100.24,Credit Card,Hyderabad
+1127,C063,2023-11-29,P019,Biography,Books,5,227.99,1139.95,Cash on Delivery,Hyderabad
+1017,C025,2024-06-15,P068,Fiction Novel,Books,5,494.66,2473.3,Credit Card,Chennai
+1792,C090,2023-11-19,P218,Puzzle,Toys,5,281.73,1408.65,Debit Card,Mumbai
+1734,C075,2023-07-25,P102,Shampoo,Beauty,3,39.65,118.95,UPI,Delhi
+1565,C038,2024-05-21,P042,Coffee Maker,Home & Kitchen,3,354.78,1064.34,Cash on Delivery,Bangalore
+1569,C130,2023-05-02,P288,Fiction Novel,Books,4,362.76,1451.04,Net Banking,Bangalore
+1322,C135,2024-02-18,P167,Cookbook,Books,3,465.0,1395.0,Net Banking,Ahmedabad
+1871,C162,2023-09-13,P109,Football,Sports,3,416.53,1249.59,Credit Card,Hyderabad
+1685,C091,2023-05-04,P036,Running Shoes,Sports,1,189.75,189.75,UPI,Chennai
+1791,C017,2023-02-17,P232,Board Game,Toys,2,387.54,775.08,UPI,Bangalore
+1625,C128,2023-07-20,P229,Moisturizer,Beauty,1,292.6,292.6,Debit Card,Chennai
+1287,C171,2024-01-03,P164,Puzzle,Toys,2,276.28,552.56,Debit Card,Pune
+1942,C187,2024-04-24,P073,Tennis Racket,Sports,5,178.35,891.75,Debit Card,Pune
+1853,C108,2023-12-21,P136,Biography,Books,2,380.46,760.92,Net Banking,Mumbai
+1662,C179,2023-02-13,P070,Moisturizer,Beauty,5,107.58,537.9,Credit Card,Hyderabad
+1961,C182,2023-04-02,P196,Lego Set,Toys,5,196.38,981.9,Credit Card,Mumbai
+1638,C152,2024-03-17,P269,Nail Polish,Beauty,1,176.75,176.75,Debit Card,Bangalore
+1154,C025,2024-07-29,P049,Vacuum Cleaner,Home & Kitchen,1,132.82,132.82,Credit Card,Pune
+1489,C199,2024-04-29,P130,Wireless Mouse,Electronics,2,445.12,890.24,Net Banking,Bangalore
+1385,C180,2024-03-20,P005,Mixer,Home & Kitchen,5,318.03,1590.15,Net Banking,Bangalore
+1985,C198,2024-06-11,P027,Football,Sports,5,357.82,1789.1,UPI,Hyderabad
+1784,C088,2023-08-25,P160,Running Shoes,Sports,3,96.76,290.28,UPI,Pune
+1103,C161,2023-10-27,P149,Moisturizer,Beauty,3,431.45,1294.35,UPI,Pune
+1928,C177,2024-08-15,P264,Perfume,Beauty,3,98.02,294.06,Credit Card,Delhi
+1392,C029,2024-01-31,P230,Lipstick,Beauty,2,349.6,699.2,Net Banking,Mumbai
+1810,C063,2023-11-14,P200,Cricket Bat,Sports,3,411.81,1235.43,Cash on Delivery,Ahmedabad
+1245,C150,2024-05-19,P050,Perfume,Beauty,1,139.61,139.61,UPI,Kolkata
+1175,C154,2023-08-10,P067,Doll,Toys,3,469.84,1409.52,Net Banking,Pune
+1038,C156,2023-06-05,P058,Yoga Mat,Sports,5,165.63,828.15,Net Banking,Mumbai
+1476,C114,2024-08-08,P259,Nail Polish,Beauty,5,348.85,1744.25,Cash on Delivery,Pune
+1681,C049,2024-01-23,P130,Yoga Mat,Sports,5,408.4,2042.0,UPI,Mumbai
+1758,C199,2023-12-06,P215,Sneakers,Clothing,4,387.96,1551.84,Cash on Delivery,Delhi
+1537,C081,2024-01-27,P172,Puzzle,Toys,4,79.55,318.2,Cash on Delivery,Chennai
+1866,C084,2024-06-17,P258,Headphones,Electronics,1,234.68,234.68,Debit Card,Chennai
+1817,C105,2024-08-13,P102,Moisturizer,Beauty,5,440.2,2201.0,Net Banking,Delhi
+1920,C177,2023-08-05,P209,Moisturizer,Beauty,5,316.87,1584.35,Debit Card,Ahmedabad
+1407,C148,2024-03-30,P291,Running Shoes,Sports,3,259.53,778.59,Debit Card,Chennai
+1524,C118,2023-09-15,P286,Lego Set,Toys,5,413.58,2067.9,UPI,Chennai
+1827,C086,2024-07-03,P116,Lego Set,Toys,3,407.29,1221.87,Cash on Delivery,Pune
+1505,C063,2023-10-26,P264,Running Shoes,Sports,3,499.45,1498.35,UPI,Ahmedabad
+1902,C189,2024-04-24,P150,Mixer,Home & Kitchen,5,375.35,1876.75,Debit Card,Ahmedabad
+1824,C104,2023-12-31,P036,Lamp,Home & Kitchen,5,429.72,2148.6,Credit Card,Hyderabad
+1035,C049,2024-02-04,P287,Jacket,Clothing,3,124.54,373.62,Credit Card,Ahmedabad
+1684,C071,2024-04-03,P208,Cookware Set,Home & Kitchen,5,162.46,812.3,Credit Card,Pune
+1019,C001,2024-05-22,P106,T-Shirt,Clothing,3,425.34,1276.02,Debit Card,Hyderabad
+1320,C141,2023-06-15,P158,Board Game,Toys,5,119.85,599.25,UPI,Chennai
+1775,C179,2023-12-22,P121,Cookbook,Books,2,354.55,709.1,Debit Card,Chennai
+1511,C123,2024-05-29,P055,Vacuum Cleaner,Home & Kitchen,3,7.65,22.95,Net Banking,Bangalore
+1399,C184,2023-05-18,P012,Moisturizer,Beauty,5,432.89,2164.45,Credit Card,Kolkata
+1653,C062,2024-07-26,P145,Perfume,Beauty,3,292.57,877.71,Cash on Delivery,Chennai
+1971,C032,2024-03-25,P136,Hat,Clothing,5,379.58,1897.9,Debit Card,Delhi
+1882,C158,2023-10-03,P003,Biography,Books,2,73.53,147.06,Credit Card,Delhi
+1470,C029,2024-09-13,P144,Sneakers,Clothing,3,434.86,1304.58,Net Banking,Pune
+1142,C049,2023-07-10,P030,Sneakers,Clothing,2,174.24,348.48,Cash on Delivery,Hyderabad
+1091,C173,2024-07-15,P237,Moisturizer,Beauty,3,237.3,711.9,UPI,Delhi
+1353,C030,2023-06-19,P279,Cricket Bat,Sports,4,431.22,1724.88,UPI,Bangalore
+1833,C144,2023-01-14,P115,Smartphone,Electronics,4,470.27,1881.08,Net Banking,Delhi
+1799,C168,2023-07-08,P104,Running Shoes,Sports,3,474.85,1424.55,Credit Card,Kolkata
+1726,C019,2024-04-15,P118,Cookware Set,Home & Kitchen,2,184.4,368.8,Debit Card,Chennai
+1958,C018,2023-12-09,P005,Power Bank,Electronics,3,87.84,263.52,Debit Card,Delhi
+1853,C001,2023-07-01,P248,Biography,Books,1,323.91,323.91,UPI,Bangalore
+1050,C078,2023-03-05,P121,Science Book,Books,2,279.57,559.14,Debit Card,Pune
+1664,C115,2024-09-07,P286,Doll,Toys,4,209.84,839.36,Net Banking,Kolkata
+1697,C175,2023-04-03,P149,Mixer,Home & Kitchen,4,25.96,103.84,Cash on Delivery,Kolkata
+1574,C194,2023-04-22,P084,Jeans,Clothing,2,14.48,28.96,Net Banking,Pune
+1189,C113,2023-02-12,P231,Puzzle,Toys,1,306.8,306.8,Credit Card,Bangalore
+1124,C114,2024-06-15,P288,Headphones,Electronics,4,230.16,920.64,Cash on Delivery,Mumbai
+1149,C166,2023-03-31,P161,Nail Polish,Beauty,3,321.32,963.96,Cash on Delivery,Delhi
+1313,C179,2024-03-13,P272,Wireless Mouse,Electronics,5,81.08,405.4,UPI,Hyderabad
+1569,C063,2023-05-30,P038,Power Bank,Electronics,2,371.58,743.16,UPI,Chennai
+1341,C132,2023-10-23,P226,Doll,Toys,4,20.71,82.84,Net Banking,Kolkata
+1304,C129,2024-10-01,P142,Jacket,Clothing,2,46.86,93.72,Net Banking,Hyderabad
+1691,C008,2023-05-24,P292,T-Shirt,Clothing,4,441.08,1764.32,UPI,Bangalore
+1681,C157,2023-02-14,P151,Lego Set,Toys,3,109.56,328.68,Debit Card,Delhi
+1837,C055,2023-06-04,P114,Football,Sports,3,443.62,1330.86,Credit Card,Ahmedabad
+1782,C103,2023-09-13,P237,Science Book,Books,5,401.04,2005.2,Debit Card,Pune
+1053,C131,2023-07-31,P066,Science Book,Books,1,498.63,498.63,Debit Card,Pune
+1443,C032,2023-08-11,P258,Nail Polish,Beauty,5,449.2,2246.0,Net Banking,Delhi
+1612,C010,2024-08-29,P249,Lipstick,Beauty,1,235.18,235.18,UPI,Kolkata
+1992,C110,2023-10-03,P180,Cookbook,Books,5,35.89,179.45,Credit Card,Ahmedabad
+1263,C162,2024-09-22,P190,Biography,Books,4,38.17,152.68,UPI,Ahmedabad
+1052,C124,2023-03-05,P154,Bluetooth Speaker,Electronics,4,409.4,1637.6,Credit Card,Chennai
+1571,C087,2024-05-08,P196,Coffee Maker,Home & Kitchen,2,469.29,938.58,Cash on Delivery,Hyderabad
+1619,C055,2023-03-12,P262,Football,Sports,3,395.76,1187.28,UPI,Kolkata
+1004,C032,2023-10-03,P143,Lego Set,Toys,4,88.22,352.88,Cash on Delivery,Ahmedabad
+1102,C178,2024-07-17,P101,Tennis Racket,Sports,2,137.94,275.88,Debit Card,Delhi
+1195,C135,2024-09-29,P244,Science Book,Books,5,267.29,1336.45,UPI,Bangalore
+1773,C093,2023-10-23,P012,Vacuum Cleaner,Home & Kitchen,1,484.04,484.04,Credit Card,Pune
+1876,C008,2023-12-26,P239,Moisturizer,Beauty,4,142.79,571.16,Net Banking,Ahmedabad
+1991,C065,2023-04-03,P049,Jeans,Clothing,3,166.5,499.5,Net Banking,Ahmedabad
+1883,C057,2024-06-23,P042,Comics,Books,4,414.18,1656.72,Debit Card,Pune
+1349,C067,2023-01-13,P166,Bluetooth Speaker,Electronics,1,180.08,180.08,Credit Card,Mumbai
+1046,C187,2023-03-27,P082,Vacuum Cleaner,Home & Kitchen,4,109.2,436.8,Credit Card,Ahmedabad
+1866,C072,2023-06-15,P291,Cricket Bat,Sports,4,77.73,310.92,UPI,Delhi
+1822,C054,2023-01-11,P158,Biography,Books,2,415.51,831.02,UPI,Mumbai
+1935,C067,2023-07-09,P216,Moisturizer,Beauty,4,310.52,1242.08,Credit Card,Hyderabad
+1819,C051,2023-09-23,P158,Perfume,Beauty,5,241.86,1209.3,Credit Card,Kolkata
+1655,C097,2024-03-21,P134,Football,Sports,3,6.55,19.65,Cash on Delivery,Delhi
+1268,C092,2024-05-04,P067,Bluetooth Speaker,Electronics,1,223.66,223.66,Net Banking,Mumbai
+1369,C008,2023-06-30,P007,Cookbook,Books,1,359.02,359.02,Debit Card,Pune
+1635,C162,2023-03-30,P014,Mixer,Home & Kitchen,2,231.92,463.84,Credit Card,Delhi
+1105,C035,2024-02-03,P073,Cricket Bat,Sports,2,335.27,670.54,UPI,Hyderabad
+1669,C096,2024-05-17,P163,Headphones,Electronics,2,160.37,320.74,Credit Card,Mumbai
+1658,C088,2024-01-28,P066,Jacket,Clothing,5,494.78,2473.9,Net Banking,Delhi
+1656,C078,2023-03-23,P130,Lamp,Home & Kitchen,4,12.83,51.32,Credit Card,Kolkata
+1119,C032,2024-03-22,P206,Cricket Bat,Sports,5,372.11,1860.55,Debit Card,Kolkata
+1830,C120,2023-07-30,P276,Lego Set,Toys,4,244.17,976.68,Debit Card,Kolkata
+1786,C046,2023-08-15,P256,Tennis Racket,Sports,4,183.89,735.56,Credit Card,Hyderabad
+1603,C144,2023-07-06,P266,Moisturizer,Beauty,2,66.0,132.0,UPI,Kolkata
+1057,C196,2024-05-02,P025,Board Game,Toys,1,259.36,259.36,Debit Card,Delhi
+1950,C165,2023-08-17,P281,Doll,Toys,5,445.49,2227.45,UPI,Mumbai
+1345,C182,2023-07-07,P253,Hat,Clothing,3,369.44,1108.32,Credit Card,Delhi
+1740,C142,2023-11-06,P289,Power Bank,Electronics,2,435.46,870.92,UPI,Chennai
+1473,C055,2023-03-13,P164,T-Shirt,Clothing,4,485.27,1941.08,Cash on Delivery,Hyderabad
+1116,C176,2023-07-06,P095,Sneakers,Clothing,1,372.09,372.09,Debit Card,Ahmedabad
+1829,C007,2024-03-26,P270,Biography,Books,4,86.82,347.28,Debit Card,Bangalore
+1790,C074,2024-02-10,P110,Bluetooth Speaker,Electronics,4,247.93,991.72,Credit Card,Kolkata
+1126,C007,2023-09-04,P238,Wireless Mouse,Electronics,5,290.42,1452.1,Debit Card,Hyderabad
+1392,C161,2024-06-27,P025,Jeans,Clothing,1,393.89,393.89,Cash on Delivery,Kolkata
+1907,C151,2023-03-17,P141,Bluetooth Speaker,Electronics,3,469.75,1409.25,Debit Card,Bangalore
+1640,C085,2023-12-15,P117,Board Game,Toys,1,366.08,366.08,Cash on Delivery,Ahmedabad
+1057,C147,2023-12-11,P025,Running Shoes,Sports,5,91.69,458.45,UPI,Bangalore
+1633,C112,2024-08-18,P079,Lipstick,Beauty,1,130.06,130.06,Cash on Delivery,Bangalore
+1512,C125,2024-09-30,P068,Lipstick,Beauty,4,5.32,21.28,UPI,Mumbai
+1750,C147,2023-10-03,P173,Wireless Mouse,Electronics,2,397.33,794.66,Cash on Delivery,Mumbai
+1801,C036,2024-04-25,P012,Mixer,Home & Kitchen,4,376.38,1505.52,Debit Card,Ahmedabad
+1095,C029,2023-09-30,P288,Comics,Books,1,178.85,178.85,UPI,Bangalore
+1637,C188,2023-04-19,P128,Action Figure,Toys,2,122.36,244.72,Debit Card,Bangalore
+1117,C082,2023-08-17,P096,Shampoo,Beauty,3,122.88,368.64,Cash on Delivery,Mumbai
+1559,C002,2023-09-29,P092,Yoga Mat,Sports,1,387.4,387.4,Debit Card,Kolkata
+1600,C129,2024-05-25,P141,Sneakers,Clothing,2,381.41,762.82,Cash on Delivery,Bangalore
+1487,C047,2023-01-13,P031,Lipstick,Beauty,1,353.52,353.52,Cash on Delivery,Bangalore
+1236,C197,2023-04-04,P020,Coffee Maker,Home & Kitchen,2,201.94,403.88,Debit Card,Hyderabad
+1884,C148,2024-08-28,P146,Cricket Bat,Sports,2,89.5,179.0,Credit Card,Ahmedabad
+1896,C011,2024-04-11,P160,Nail Polish,Beauty,5,27.5,137.5,Net Banking,Hyderabad
+1271,C130,2023-06-29,P043,Action Figure,Toys,4,336.67,1346.68,Cash on Delivery,Ahmedabad
+1188,C195,2024-07-18,P254,Fiction Novel,Books,2,387.91,775.82,Debit Card,Hyderabad
+1998,C119,2023-11-04,P130,Doll,Toys,4,142.84,571.36,UPI,Ahmedabad
+1703,C140,2023-01-01,P060,Nail Polish,Beauty,1,420.39,420.39,Credit Card,Bangalore
+1446,C020,2023-04-08,P151,Power Bank,Electronics,4,17.36,69.44,UPI,Bangalore
+1580,C005,2023-05-20,P287,Football,Sports,1,171.32,171.32,UPI,Pune
+1789,C037,2023-03-13,P005,Bluetooth Speaker,Electronics,1,387.82,387.82,Credit Card,Kolkata
+1860,C166,2023-11-17,P266,Shampoo,Beauty,3,90.88,272.64,Cash on Delivery,Pune
+1246,C137,2023-05-19,P130,Board Game,Toys,3,401.72,1205.16,Cash on Delivery,Bangalore
+1962,C053,2024-04-25,P267,Biography,Books,3,327.5,982.5,UPI,Kolkata
+1075,C172,2024-02-28,P178,Shampoo,Beauty,2,340.31,680.62,UPI,Delhi
+1153,C099,2024-05-07,P253,Mixer,Home & Kitchen,2,162.43,324.86,Debit Card,Hyderabad
+1655,C086,2023-08-21,P056,Moisturizer,Beauty,3,264.74,794.22,UPI,Mumbai
+1434,C108,2023-05-19,P083,Headphones,Electronics,1,121.04,121.04,Debit Card,Pune
+1996,C024,2024-03-25,P099,Cookbook,Books,1,169.44,169.44,UPI,Kolkata
+1085,C081,2023-09-30,P149,Cricket Bat,Sports,3,320.36,961.08,Debit Card,Chennai
+1696,C158,2023-01-28,P156,Running Shoes,Sports,3,100.19,300.57,Net Banking,Pune
+1284,C120,2023-10-20,P190,Puzzle,Toys,2,311.71,623.42,UPI,Hyderabad
+1973,C059,2023-08-06,P263,Action Figure,Toys,3,255.63,766.89,UPI,Kolkata
+1219,C128,2023-02-27,P080,Headphones,Electronics,1,144.4,144.4,UPI,Kolkata
+1068,C114,2023-10-15,P252,Jacket,Clothing,5,10.09,50.45,Debit Card,Hyderabad
+1046,C115,2023-09-04,P097,Running Shoes,Sports,1,354.59,354.59,UPI,Hyderabad
+1093,C014,2023-07-05,P260,Lipstick,Beauty,4,495.1,1980.4,Net Banking,Mumbai
+1749,C009,2023-07-29,P260,Jeans,Clothing,4,173.29,693.16,Cash on Delivery,Pune
+1957,C040,2024-04-16,P103,Jacket,Clothing,1,468.06,468.06,Cash on Delivery,Ahmedabad
+1452,C194,2024-05-06,P040,Running Shoes,Sports,2,464.67,929.34,Debit Card,Delhi
+1203,C025,2023-07-03,P273,Lego Set,Toys,3,50.72,152.16,UPI,Delhi
+1911,C103,2024-01-10,P101,Headphones,Electronics,4,140.11,560.44,Debit Card,Delhi
+1217,C022,2024-08-01,P221,Board Game,Toys,5,226.12,1130.6,Credit Card,Kolkata
+1473,C004,2024-09-21,P124,Jacket,Clothing,2,7.49,14.98,Cash on Delivery,Ahmedabad
+1431,C154,2023-12-26,P231,Moisturizer,Beauty,2,452.86,905.72,Net Banking,Chennai
+1340,C186,2023-06-01,P178,Doll,Toys,2,92.71,185.42,Cash on Delivery,Chennai
+1550,C029,2023-10-10,P063,Running Shoes,Sports,5,61.82,309.1,Credit Card,Chennai
+1611,C109,2024-04-04,P116,Sneakers,Clothing,1,8.4,8.4,Cash on Delivery,Mumbai
+1288,C098,2023-10-09,P191,Comics,Books,1,333.44,333.44,Debit Card,Pune
+1253,C037,2024-03-09,P062,Yoga Mat,Sports,2,428.79,857.58,Net Banking,Kolkata
+1733,C075,2023-05-12,P256,Headphones,Electronics,4,379.94,1519.76,Debit Card,Pune
+1356,C070,2024-07-31,P007,Perfume,Beauty,1,222.83,222.83,Credit Card,Kolkata
+1022,C146,2024-03-08,P155,Wireless Mouse,Electronics,3,174.34,523.02,Cash on Delivery,Ahmedabad
+1761,C128,2024-03-21,P092,Biography,Books,4,64.35,257.4,Net Banking,Pune
+1521,C085,2023-10-21,P014,Hat,Clothing,5,268.07,1340.35,Credit Card,Mumbai
+1757,C042,2023-09-07,P229,Wireless Mouse,Electronics,5,248.95,1244.75,Net Banking,Hyderabad
+1836,C100,2023-01-25,P086,Lamp,Home & Kitchen,4,368.27,1473.08,Cash on Delivery,Mumbai
+1099,C041,2023-03-11,P133,Puzzle,Toys,5,293.88,1469.4,Cash on Delivery,Pune
+1801,C166,2023-12-30,P183,Puzzle,Toys,1,27.4,27.4,Debit Card,Kolkata
+1179,C034,2023-07-11,P062,Nail Polish,Beauty,4,292.8,1171.2,Credit Card,Delhi
+1222,C017,2023-05-18,P219,Headphones,Electronics,3,208.37,625.11,UPI,Pune
+1905,C165,2024-05-17,P246,Jacket,Clothing,1,471.62,471.62,UPI,Mumbai
+1761,C153,2023-01-05,P230,Puzzle,Toys,3,401.49,1204.47,Debit Card,Bangalore
+1658,C122,2023-11-07,P079,T-Shirt,Clothing,2,290.54,581.08,Cash on Delivery,Mumbai
+1441,C076,2023-08-25,P149,Wireless Mouse,Electronics,5,63.76,318.8,UPI,Kolkata
+1607,C087,2024-07-24,P138,Power Bank,Electronics,5,117.01,585.05,Net Banking,Pune
+1768,C117,2023-01-30,P065,Cookware Set,Home & Kitchen,2,370.74,741.48,Credit Card,Hyderabad
+1324,C106,2024-08-24,P013,Lego Set,Toys,3,268.48,805.44,Debit Card,Ahmedabad
+1515,C086,2024-03-20,P213,Cookware Set,Home & Kitchen,5,286.15,1430.75,Cash on Delivery,Hyderabad
+1015,C027,2024-08-28,P242,Lamp,Home & Kitchen,5,410.28,2051.4,Debit Card,Mumbai
+1791,C057,2024-05-09,P213,Puzzle,Toys,1,20.73,20.73,UPI,Hyderabad
+1335,C031,2024-07-17,P181,Bluetooth Speaker,Electronics,2,29.92,59.84,Cash on Delivery,Ahmedabad
+1758,C134,2024-03-14,P173,Power Bank,Electronics,1,347.55,347.55,Cash on Delivery,Pune
+1257,C168,2023-07-10,P160,Cookbook,Books,5,308.92,1544.6,Credit Card,Bangalore
+1496,C098,2024-02-09,P164,Cricket Bat,Sports,2,182.81,365.62,Cash on Delivery,Delhi
+1987,C012,2024-09-02,P188,Tennis Racket,Sports,1,42.84,42.84,Debit Card,Mumbai
+1895,C053,2024-06-12,P191,Puzzle,Toys,5,398.0,1990.0,UPI,Kolkata
+1159,C199,2023-06-15,P256,Biography,Books,2,82.24,164.48,UPI,Delhi
+1474,C138,2024-03-04,P183,Jeans,Clothing,1,182.38,182.38,Credit Card,Chennai
+1851,C173,2023-08-27,P117,Action Figure,Toys,3,114.51,343.53,Net Banking,Bangalore
+1663,C145,2024-05-23,P282,Cricket Bat,Sports,5,290.35,1451.75,Credit Card,Hyderabad
+1907,C154,2024-02-19,P196,Lego Set,Toys,3,391.85,1175.55,Cash on Delivery,Delhi
+1689,C190,2023-03-01,P034,Lego Set,Toys,5,106.1,530.5,Debit Card,Delhi
+1674,C122,2024-02-11,P052,Tennis Racket,Sports,5,467.21,2336.05,Debit Card,Mumbai
+1379,C046,2023-01-05,P112,Nail Polish,Beauty,1,302.83,302.83,Net Banking,Hyderabad
+1544,C064,2024-07-24,P252,Board Game,Toys,2,206.84,413.68,UPI,Delhi
+1928,C130,2023-09-06,P082,Football,Sports,2,485.72,971.44,Cash on Delivery,Pune
+1956,C054,2024-07-09,P232,Vacuum Cleaner,Home & Kitchen,5,115.87,579.35,Cash on Delivery,Chennai
+1690,C107,2024-02-23,P227,Cookbook,Books,3,387.92,1163.76,Net Banking,Kolkata
+1426,C193,2024-09-03,P233,Perfume,Beauty,1,325.88,325.88,Cash on Delivery,Hyderabad
+1612,C051,2024-03-07,P221,Cookware Set,Home & Kitchen,3,204.59,613.77,Credit Card,Ahmedabad
+1267,C181,2023-11-13,P042,Action Figure,Toys,4,408.26,1633.04,Credit Card,Mumbai
+1834,C036,2023-12-29,P021,Board Game,Toys,5,189.86,949.3,UPI,Mumbai
+1576,C115,2023-06-13,P042,Puzzle,Toys,2,57.41,114.82,Cash on Delivery,Kolkata
+1416,C026,2023-05-08,P113,Cricket Bat,Sports,5,268.17,1340.85,Credit Card,Chennai
+1167,C029,2023-07-06,P105,Jeans,Clothing,5,39.7,198.5,Net Banking,Pune
+1841,C149,2024-01-23,P192,Hat,Clothing,4,454.09,1816.36,Credit Card,Hyderabad
+1042,C011,2023-08-25,P017,Jeans,Clothing,5,113.94,569.7,Net Banking,Ahmedabad
+1555,C040,2023-05-16,P120,Puzzle,Toys,2,280.74,561.48,Debit Card,Ahmedabad
+1284,C011,2024-05-01,P129,Football,Sports,3,134.86,404.58,Debit Card,Ahmedabad
+1396,C164,2024-08-05,P130,Lipstick,Beauty,5,419.07,2095.35,Net Banking,Delhi
+1011,C113,2023-05-05,P060,Mixer,Home & Kitchen,4,458.63,1834.52,UPI,Hyderabad
+1606,C187,2024-04-02,P048,T-Shirt,Clothing,1,146.42,146.42,UPI,Delhi
+1301,C039,2024-02-27,P029,Power Bank,Electronics,2,26.31,52.62,Credit Card,Hyderabad
+1897,C054,2024-01-17,P097,Board Game,Toys,4,224.73,898.92,Net Banking,Pune
+1252,C098,2023-12-16,P010,Running Shoes,Sports,5,330.74,1653.7,Cash on Delivery,Delhi
+1498,C055,2024-09-11,P242,Comics,Books,2,122.39,244.78,Credit Card,Hyderabad
+1753,C111,2023-01-06,P232,Comics,Books,4,385.22,1540.88,Net Banking,Kolkata
+1034,C152,2024-02-28,P277,Action Figure,Toys,2,422.89,845.78,UPI,Kolkata
+1726,C150,2023-07-21,P284,Bluetooth Speaker,Electronics,2,259.48,518.96,Net Banking,Chennai
+1848,C069,2024-01-11,P203,Jeans,Clothing,4,111.53,446.12,Net Banking,Mumbai
+1089,C056,2023-04-16,P247,Perfume,Beauty,3,281.91,845.73,Credit Card,Hyderabad
+1775,C033,2023-04-06,P290,Doll,Toys,3,357.86,1073.58,UPI,Ahmedabad
+1604,C036,2024-02-20,P264,Running Shoes,Sports,4,165.55,662.2,Credit Card,Hyderabad
+1921,C148,2023-05-30,P214,Cricket Bat,Sports,3,473.64,1420.92,Credit Card,Bangalore
+1969,C081,2024-05-29,P200,Tennis Racket,Sports,3,229.93,689.79,Credit Card,Mumbai
+1601,C190,2024-08-21,P079,Lipstick,Beauty,1,303.75,303.75,Debit Card,Ahmedabad
+1417,C109,2023-09-08,P173,Coffee Maker,Home & Kitchen,1,218.34,218.34,UPI,Kolkata
+1114,C154,2023-03-24,P069,Headphones,Electronics,1,103.06,103.06,Net Banking,Pune
+1616,C194,2023-02-16,P087,Science Book,Books,5,115.22,576.1,Debit Card,Ahmedabad
+1902,C073,2023-01-30,P101,Biography,Books,4,275.5,1102.0,Cash on Delivery,Ahmedabad
+1195,C040,2023-08-25,P008,Jeans,Clothing,1,84.31,84.31,Credit Card,Chennai
+1825,C017,2024-05-04,P200,Sneakers,Clothing,1,399.62,399.62,UPI,Ahmedabad
+1500,C129,2024-08-28,P087,Lipstick,Beauty,1,346.75,346.75,Credit Card,Mumbai
+1625,C061,2023-12-21,P043,Lamp,Home & Kitchen,1,30.93,30.93,Debit Card,Delhi
+1492,C171,2023-04-09,P109,Bluetooth Speaker,Electronics,4,171.13,684.52,Cash on Delivery,Delhi
+1074,C104,2024-02-09,P152,Hat,Clothing,3,16.74,50.22,Credit Card,Bangalore
+1412,C042,2024-03-23,P017,Bluetooth Speaker,Electronics,5,155.78,778.9,Credit Card,Hyderabad
+1375,C025,2023-02-23,P133,Jeans,Clothing,2,463.6,927.2,Debit Card,Hyderabad
+1419,C039,2023-08-29,P148,Wireless Mouse,Electronics,3,24.5,73.5,Net Banking,Hyderabad
+1728,C035,2023-07-06,P277,Fiction Novel,Books,3,199.48,598.44,UPI,Mumbai
+1276,C131,2023-12-30,P232,Hat,Clothing,2,473.64,947.28,Debit Card,Pune
+1760,C108,2023-10-31,P228,Yoga Mat,Sports,3,156.68,470.04,Net Banking,Delhi
+1675,C172,2023-11-29,P139,Running Shoes,Sports,2,296.23,592.46,UPI,Chennai
+1393,C179,2024-04-18,P211,Board Game,Toys,4,487.03,1948.12,Debit Card,Ahmedabad
+1868,C102,2024-08-13,P028,Science Book,Books,3,270.01,810.03,Debit Card,Pune
+1456,C098,2024-07-08,P051,Lego Set,Toys,4,215.93,863.72,Credit Card,Delhi
+1919,C012,2024-04-09,P261,Science Book,Books,1,114.78,114.78,Cash on Delivery,Chennai
+1191,C019,2023-03-31,P261,Cookbook,Books,4,409.57,1638.28,Debit Card,Ahmedabad
+1738,C101,2023-06-24,P008,Biography,Books,4,227.78,911.12,Credit Card,Delhi
+1688,C044,2024-02-04,P138,Bluetooth Speaker,Electronics,4,147.23,588.92,UPI,Kolkata
+1098,C187,2023-06-29,P038,Smartphone,Electronics,2,333.08,666.16,Cash on Delivery,Ahmedabad
+1547,C049,2023-07-14,P111,Nail Polish,Beauty,4,380.75,1523.0,Debit Card,Pune
+1977,C189,2024-03-11,P220,Cricket Bat,Sports,4,348.43,1393.72,Net Banking,Chennai
+1998,C017,2023-01-21,P223,Lego Set,Toys,3,112.04,336.12,UPI,Kolkata
+1095,C074,2023-10-12,P136,Football,Sports,5,381.28,1906.4,Net Banking,Delhi
+1663,C057,2023-06-13,P256,Puzzle,Toys,4,368.28,1473.12,Net Banking,Mumbai
+1662,C055,2023-05-26,P049,Lego Set,Toys,2,207.19,414.38,Cash on Delivery,Chennai
+1189,C047,2023-01-30,P292,Smartphone,Electronics,5,414.54,2072.7,UPI,Bangalore
+1735,C012,2023-02-03,P078,Yoga Mat,Sports,5,172.08,860.4,Cash on Delivery,Delhi
+1036,C062,2023-08-09,P105,Running Shoes,Sports,5,127.03,635.15,Debit Card,Hyderabad
+1779,C080,2024-01-02,P169,Tennis Racket,Sports,4,443.61,1774.44,Debit Card,Mumbai
+1368,C083,2024-07-03,P217,Hat,Clothing,4,65.45,261.8,Net Banking,Ahmedabad
+1694,C008,2024-03-16,P119,Science Book,Books,4,337.83,1351.32,Debit Card,Delhi
+1524,C149,2024-01-23,P190,Shampoo,Beauty,4,338.18,1352.72,Net Banking,Ahmedabad
+1278,C081,2024-09-29,P255,Vacuum Cleaner,Home & Kitchen,2,201.51,403.02,Net Banking,Kolkata
+1216,C118,2023-10-27,P266,Tennis Racket,Sports,3,183.43,550.29,UPI,Delhi
+1866,C198,2024-09-09,P149,Comics,Books,2,19.86,39.72,Net Banking,Mumbai
+1872,C025,2024-04-22,P164,T-Shirt,Clothing,4,488.75,1955.0,UPI,Kolkata
+1797,C089,2023-07-08,P140,Perfume,Beauty,3,291.01,873.03,Debit Card,Hyderabad
+1272,C012,2023-10-15,P258,Coffee Maker,Home & Kitchen,3,492.66,1477.98,UPI,Bangalore
+1880,C143,2023-05-18,P269,Bluetooth Speaker,Electronics,2,220.01,440.02,UPI,Delhi
+1061,C059,2023-05-24,P181,Cookware Set,Home & Kitchen,2,311.29,622.58,Cash on Delivery,Chennai
+1595,C154,2023-03-29,P160,Headphones,Electronics,5,217.66,1088.3,Net Banking,Chennai
+1879,C109,2023-12-07,P288,Mixer,Home & Kitchen,1,68.94,68.94,Net Banking,Hyderabad
+1728,C026,2023-11-02,P288,Mixer,Home & Kitchen,4,303.58,1214.32,UPI,Bangalore
+1341,C047,2023-08-13,P226,Perfume,Beauty,4,24.87,99.48,Credit Card,Bangalore
+1396,C032,2023-11-17,P011,Biography,Books,3,496.02,1488.06,UPI,Mumbai
+1698,C010,2024-01-21,P010,Doll,Toys,4,391.56,1566.24,Debit Card,Chennai
+1018,C016,2023-04-18,P271,Jeans,Clothing,2,433.45,866.9,Credit Card,Mumbai
+1176,C199,2023-10-23,P273,Lamp,Home & Kitchen,3,67.35,202.05,Debit Card,Bangalore
+1611,C145,2024-05-07,P183,Bluetooth Speaker,Electronics,2,338.55,677.1,Cash on Delivery,Pune
+1395,C151,2024-05-04,P153,Hat,Clothing,3,165.54,496.62,Credit Card,Ahmedabad
+1444,C026,2023-11-12,P124,Board Game,Toys,3,299.15,897.45,Cash on Delivery,Hyderabad
+1232,C086,2023-04-06,P114,Vacuum Cleaner,Home & Kitchen,4,141.58,566.32,Credit Card,Delhi
+1914,C135,2023-10-25,P278,Yoga Mat,Sports,5,234.71,1173.55,Net Banking,Hyderabad
+1075,C014,2023-12-27,P213,Football,Sports,1,314.54,314.54,Credit Card,Mumbai
+1264,C079,2023-09-03,P172,Action Figure,Toys,2,129.28,258.56,Cash on Delivery,Delhi
+1454,C117,2024-04-12,P288,Perfume,Beauty,5,304.97,1524.85,Debit Card,Ahmedabad
+1795,C007,2024-07-06,P174,Wireless Mouse,Electronics,2,27.27,54.54,Credit Card,Pune
+1717,C137,2024-08-23,P113,Jacket,Clothing,2,95.81,191.62,Debit Card,Hyderabad
+1734,C115,2023-03-14,P122,Shampoo,Beauty,2,208.63,417.26,UPI,Kolkata
+1383,C176,2024-06-05,P032,Cookware Set,Home & Kitchen,4,18.78,75.12,Debit Card,Pune
+1563,C072,2023-02-08,P222,Sneakers,Clothing,1,133.0,133.0,Cash on Delivery,Ahmedabad
+1850,C059,2024-03-10,P119,Comics,Books,4,389.84,1559.36,Net Banking,Chennai
+1505,C082,2024-01-21,P039,T-Shirt,Clothing,4,363.51,1454.04,Credit Card,Ahmedabad
+1366,C116,2023-10-12,P268,Tennis Racket,Sports,1,482.82,482.82,Debit Card,Pune
+1143,C167,2023-12-06,P233,Smartphone,Electronics,4,298.05,1192.2,Debit Card,Ahmedabad
+1884,C146,2024-09-13,P018,Running Shoes,Sports,5,17.22,86.1,Credit Card,Pune
+1068,C187,2023-05-08,P149,Bluetooth Speaker,Electronics,5,302.45,1512.25,Debit Card,Bangalore
+1098,C103,2024-03-29,P149,Football,Sports,2,206.26,412.52,Cash on Delivery,Bangalore
+1395,C017,2023-01-22,P126,Smartphone,Electronics,4,495.77,1983.08,Cash on Delivery,Hyderabad
+1024,C014,2023-04-06,P238,Perfume,Beauty,5,450.63,2253.15,UPI,Kolkata
+1947,C159,2023-05-28,P135,Perfume,Beauty,1,419.58,419.58,Debit Card,Pune
+1890,C152,2024-04-24,P151,Cricket Bat,Sports,2,292.69,585.38,Debit Card,Mumbai
+1468,C108,2024-03-27,P236,Comics,Books,5,139.62,698.1,Debit Card,Bangalore
+1483,C188,2024-04-06,P224,Headphones,Electronics,5,318.69,1593.45,Debit Card,Bangalore
+1564,C045,2024-08-21,P203,Action Figure,Toys,4,165.15,660.6,Credit Card,Delhi
+1150,C098,2024-06-10,P256,Tennis Racket,Sports,5,174.65,873.25,Credit Card,Ahmedabad
+1143,C131,2023-11-06,P086,Doll,Toys,4,462.51,1850.04,Cash on Delivery,Hyderabad
+1568,C037,2023-04-19,P150,Cricket Bat,Sports,4,326.65,1306.6,Credit Card,Kolkata
+1038,C171,2024-09-07,P235,Bluetooth Speaker,Electronics,3,204.0,612.0,UPI,Hyderabad
+1108,C168,2023-02-12,P022,Running Shoes,Sports,3,152.9,458.7,UPI,Kolkata
+1692,C183,2023-12-21,P285,Science Book,Books,1,11.75,11.75,Credit Card,Delhi
+1041,C108,2023-04-20,P269,Science Book,Books,1,279.41,279.41,Net Banking,Kolkata
+1185,C039,2023-10-18,P258,Puzzle,Toys,5,479.03,2395.15,Debit Card,Kolkata
+1934,C015,2023-11-22,P029,Perfume,Beauty,5,259.66,1298.3,UPI,Delhi
+1397,C120,2024-05-22,P213,Board Game,Toys,1,195.1,195.1,Credit Card,Chennai
+1222,C004,2023-09-04,P283,Shampoo,Beauty,3,123.95,371.85,Cash on Delivery,Hyderabad
+1633,C093,2024-08-30,P050,Lamp,Home & Kitchen,1,160.88,160.88,Cash on Delivery,Delhi
+1132,C153,2024-07-19,P095,Vacuum Cleaner,Home & Kitchen,3,415.71,1247.13,Cash on Delivery,Bangalore
+1162,C141,2024-06-11,P088,Jeans,Clothing,3,268.28,804.84,Debit Card,Bangalore
+1214,C161,2023-07-12,P044,Hat,Clothing,3,446.2,1338.6,Debit Card,Pune
+1732,C016,2023-05-09,P278,Cricket Bat,Sports,2,240.85,481.7,Net Banking,Mumbai
+1234,C170,2023-11-22,P171,Headphones,Electronics,1,247.07,247.07,UPI,Kolkata
+1842,C108,2023-05-11,P189,Moisturizer,Beauty,5,348.85,1744.25,UPI,Pune
+1657,C126,2024-04-19,P184,Yoga Mat,Sports,4,68.52,274.08,UPI,Delhi
+1750,C194,2024-09-12,P003,Sneakers,Clothing,4,348.24,1392.96,UPI,Kolkata
+1587,C055,2023-08-31,P191,Vacuum Cleaner,Home & Kitchen,4,377.97,1511.88,Net Banking,Delhi
+1008,C170,2023-06-20,P118,Coffee Maker,Home & Kitchen,3,366.47,1099.41,Credit Card,Ahmedabad
+1073,C034,2024-03-16,P019,Vacuum Cleaner,Home & Kitchen,5,338.48,1692.4,Net Banking,Kolkata
+1953,C158,2023-02-12,P023,Football,Sports,4,224.3,897.2,Credit Card,Kolkata
+1491,C013,2023-07-19,P030,Smartphone,Electronics,3,116.89,350.67,UPI,Ahmedabad
+1912,C141,2024-09-18,P295,Fiction Novel,Books,2,264.16,528.32,Debit Card,Delhi
+1252,C018,2023-03-18,P108,T-Shirt,Clothing,2,152.55,305.1,Credit Card,Hyderabad
+1229,C160,2024-03-15,P281,Smartphone,Electronics,4,386.9,1547.6,Debit Card,Hyderabad
+1518,C096,2024-03-10,P128,Lipstick,Beauty,3,417.05,1251.15,UPI,Pune
+1173,C123,2024-03-14,P229,Moisturizer,Beauty,4,239.71,958.84,Credit Card,Pune
+1652,C039,2024-02-15,P111,Sneakers,Clothing,3,320.7,962.1,Debit Card,Bangalore
+1167,C046,2024-03-02,P136,Tennis Racket,Sports,3,25.58,76.74,Credit Card,Chennai
+1169,C029,2024-01-04,P186,Nail Polish,Beauty,3,346.21,1038.63,Cash on Delivery,Hyderabad
+1392,C190,2023-08-20,P144,Running Shoes,Sports,2,81.19,162.38,Debit Card,Delhi
+1945,C062,2024-01-11,P072,Headphones,Electronics,3,72.17,216.51,Credit Card,Bangalore
+1794,C185,2023-11-20,P129,Running Shoes,Sports,3,454.33,1362.99,Cash on Delivery,Hyderabad
+1633,C016,2024-07-16,P261,Coffee Maker,Home & Kitchen,1,351.71,351.71,Credit Card,Kolkata
+1193,C184,2024-08-22,P003,Lipstick,Beauty,5,267.21,1336.05,Credit Card,Kolkata
+1516,C121,2024-01-16,P104,Shampoo,Beauty,1,487.71,487.71,Cash on Delivery,Kolkata
+1028,C010,2023-09-17,P224,Shampoo,Beauty,1,483.44,483.44,Cash on Delivery,Pune
+1164,C158,2023-01-07,P010,Football,Sports,3,465.67,1397.01,UPI,Pune
+1421,C153,2024-03-13,P231,Perfume,Beauty,2,209.08,418.16,UPI,Mumbai
+1338,C103,2024-05-12,P219,Cookware Set,Home & Kitchen,1,129.19,129.19,Debit Card,Bangalore
+1647,C084,2023-11-09,P066,Biography,Books,4,291.97,1167.88,Cash on Delivery,Chennai
+1495,C133,2024-06-24,P112,Coffee Maker,Home & Kitchen,2,408.81,817.62,Debit Card,Hyderabad
+1364,C065,2023-11-30,P013,Perfume,Beauty,3,42.98,128.94,Cash on Delivery,Hyderabad
+1832,C177,2023-09-30,P086,Cookware Set,Home & Kitchen,3,330.76,992.28,Credit Card,Bangalore
+1341,C003,2024-02-18,P234,Moisturizer,Beauty,3,228.61,685.83,Credit Card,Delhi
+1499,C173,2023-03-20,P090,Football,Sports,4,203.35,813.4,Credit Card,Pune
+1656,C142,2024-09-09,P054,Smartphone,Electronics,1,210.34,210.34,UPI,Bangalore
+1510,C120,2024-07-29,P012,Cookbook,Books,3,331.55,994.65,Net Banking,Chennai
+1326,C158,2023-11-16,P209,Power Bank,Electronics,4,201.49,805.96,Cash on Delivery,Mumbai
+1216,C068,2023-10-05,P014,Wireless Mouse,Electronics,1,470.55,470.55,Net Banking,Kolkata
+1300,C146,2023-06-18,P121,Cricket Bat,Sports,1,477.51,477.51,Cash on Delivery,Delhi
+1131,C190,2024-01-26,P020,Lego Set,Toys,2,241.32,482.64,Cash on Delivery,Hyderabad
+1803,C037,2024-05-27,P075,Mixer,Home & Kitchen,5,60.05,300.25,Credit Card,Kolkata
+1069,C153,2024-05-30,P243,Mixer,Home & Kitchen,4,198.91,795.64,Credit Card,Kolkata
+1251,C176,2024-05-16,P223,Power Bank,Electronics,1,311.88,311.88,UPI,Ahmedabad
+1414,C193,2023-03-12,P070,Jacket,Clothing,2,111.38,222.76,UPI,Mumbai
+1786,C181,2023-10-18,P211,Sneakers,Clothing,2,436.6,873.2,Cash on Delivery,Ahmedabad
+1444,C073,2023-10-19,P101,Cookware Set,Home & Kitchen,5,130.86,654.3,Debit Card,Bangalore
+1875,C143,2023-10-10,P186,Jeans,Clothing,2,267.34,534.68,UPI,Chennai
+1181,C049,2024-05-22,P132,Biography,Books,1,201.17,201.17,UPI,Delhi
+1166,C121,2024-07-12,P111,Jeans,Clothing,5,76.02,380.1,Cash on Delivery,Mumbai
+1090,C088,2023-09-17,P132,Jeans,Clothing,3,219.22,657.66,UPI,Kolkata
+1713,C196,2023-10-31,P020,Headphones,Electronics,5,44.9,224.5,Net Banking,Mumbai
+1857,C140,2024-05-03,P024,Tennis Racket,Sports,2,237.61,475.22,Cash on Delivery,Ahmedabad
+1530,C187,2023-10-05,P227,Puzzle,Toys,4,104.38,417.52,UPI,Chennai
+1038,C037,2023-09-25,P154,Bluetooth Speaker,Electronics,3,396.75,1190.25,Net Banking,Pune
+1125,C061,2023-09-12,P293,Board Game,Toys,4,392.82,1571.28,Net Banking,Mumbai
+1450,C171,2024-03-17,P230,Headphones,Electronics,5,66.55,332.75,Credit Card,Bangalore
+1172,C124,2024-01-25,P202,Jacket,Clothing,2,485.62,971.24,UPI,Delhi
+1652,C198,2024-08-20,P038,Cookware Set,Home & Kitchen,4,24.94,99.76,Net Banking,Pune
+1753,C039,2024-08-29,P260,Perfume,Beauty,3,260.56,781.68,Net Banking,Delhi
+1219,C184,2023-02-02,P188,Jeans,Clothing,5,10.19,50.95,Net Banking,Bangalore
+1637,C063,2024-09-21,P057,Cookware Set,Home & Kitchen,2,405.79,811.58,Credit Card,Ahmedabad
+1057,C046,2023-09-03,P020,Biography,Books,3,174.21,522.63,Debit Card,Pune
+1659,C088,2024-06-24,P273,Hat,Clothing,5,11.39,56.95,Credit Card,Kolkata
+1475,C011,2023-04-27,P119,Vacuum Cleaner,Home & Kitchen,1,285.61,285.61,Debit Card,Chennai
+1455,C062,2023-06-21,P071,Football,Sports,2,323.76,647.52,UPI,Hyderabad
+1828,C077,2024-02-26,P004,Cricket Bat,Sports,2,301.73,603.46,Credit Card,Bangalore
+1894,C153,2023-12-30,P221,T-Shirt,Clothing,5,453.24,2266.2,UPI,Bangalore
+1360,C199,2024-06-06,P014,Coffee Maker,Home & Kitchen,3,102.46,307.38,Credit Card,Kolkata
+1934,C052,2023-07-15,P003,Cookware Set,Home & Kitchen,4,103.71,414.84,Debit Card,Ahmedabad
+1000,C004,2023-01-22,P216,Wireless Mouse,Electronics,1,254.26,254.26,Credit Card,Hyderabad
+1386,C059,2023-05-14,P229,Yoga Mat,Sports,2,413.84,827.68,Net Banking,Kolkata
+1972,C072,2023-07-04,P186,Mixer,Home & Kitchen,2,393.28,786.56,Credit Card,Hyderabad
+1347,C148,2023-05-24,P055,Action Figure,Toys,5,210.0,1050.0,Net Banking,Hyderabad
+1189,C093,2023-06-28,P254,T-Shirt,Clothing,4,210.49,841.96,UPI,Delhi
+1504,C063,2024-03-04,P024,Headphones,Electronics,1,287.95,287.95,UPI,Ahmedabad
+1190,C054,2024-07-07,P162,Lamp,Home & Kitchen,5,304.16,1520.8,Credit Card,Kolkata
+1507,C117,2023-11-26,P158,Moisturizer,Beauty,5,264.08,1320.4,Debit Card,Hyderabad
+1368,C110,2023-05-03,P082,Fiction Novel,Books,3,334.93,1004.79,Credit Card,Chennai
+1408,C074,2023-12-14,P159,Doll,Toys,3,96.31,288.93,Debit Card,Delhi
+1823,C107,2024-06-01,P188,Coffee Maker,Home & Kitchen,5,196.42,982.1,Net Banking,Bangalore
+1928,C057,2024-08-11,P060,Comics,Books,4,201.91,807.64,Cash on Delivery,Mumbai
+1933,C169,2024-06-03,P211,Yoga Mat,Sports,5,244.23,1221.15,UPI,Ahmedabad
+1116,C003,2024-08-19,P152,Cookware Set,Home & Kitchen,2,76.94,153.88,Net Banking,Delhi
+1133,C120,2023-01-16,P109,Nail Polish,Beauty,3,40.22,120.66,UPI,Ahmedabad
+1057,C006,2023-01-09,P076,Nail Polish,Beauty,5,497.32,2486.6,Net Banking,Ahmedabad
+1555,C005,2023-11-23,P030,Lipstick,Beauty,4,132.76,531.04,Cash on Delivery,Bangalore
+1684,C005,2024-02-12,P117,Doll,Toys,2,96.71,193.42,Net Banking,Mumbai
+1671,C054,2023-01-01,P192,Comics,Books,1,324.56,324.56,Net Banking,Kolkata
+1172,C047,2024-09-13,P019,Cricket Bat,Sports,2,473.26,946.52,Net Banking,Ahmedabad
+1828,C177,2023-01-12,P173,Cookware Set,Home & Kitchen,1,43.21,43.21,Debit Card,Pune
+1814,C009,2024-05-08,P228,Nail Polish,Beauty,1,67.84,67.84,Net Banking,Pune
+1148,C099,2023-06-20,P183,Sneakers,Clothing,1,87.21,87.21,Net Banking,Delhi
+1079,C020,2024-06-13,P113,Vacuum Cleaner,Home & Kitchen,5,474.75,2373.75,Cash on Delivery,Pune
+1885,C122,2023-11-11,P183,Smartphone,Electronics,5,50.11,250.55,Net Banking,Bangalore
+1212,C061,2023-04-02,P146,T-Shirt,Clothing,4,89.09,356.36,UPI,Kolkata
+1202,C123,2023-04-21,P116,Action Figure,Toys,3,168.92,506.76,UPI,Kolkata
+1763,C163,2024-04-12,P113,Coffee Maker,Home & Kitchen,1,210.64,210.64,Net Banking,Pune
+1228,C178,2023-09-06,P251,Running Shoes,Sports,4,171.01,684.04,Debit Card,Chennai
+1675,C082,2024-06-01,P251,Fiction Novel,Books,2,25.51,51.02,UPI,Ahmedabad
+1226,C062,2024-06-20,P118,T-Shirt,Clothing,5,122.28,611.4,Net Banking,Delhi
+1658,C145,2024-01-02,P161,Sneakers,Clothing,4,93.62,374.48,Debit Card,Ahmedabad
+1531,C003,2024-01-05,P198,Lego Set,Toys,2,340.39,680.78,Cash on Delivery,Bangalore
+1440,C160,2023-04-24,P260,Vacuum Cleaner,Home & Kitchen,4,41.0,164.0,Debit Card,Delhi
+1401,C013,2023-05-27,P148,Tennis Racket,Sports,1,325.49,325.49,Net Banking,Mumbai
+1046,C120,2024-06-21,P240,Tennis Racket,Sports,3,165.84,497.52,Cash on Delivery,Pune
+1232,C125,2023-08-21,P047,Smartphone,Electronics,5,116.21,581.05,Credit Card,Bangalore
+1304,C089,2024-03-15,P198,Lipstick,Beauty,1,207.79,207.79,UPI,Delhi
+1525,C073,2024-03-14,P047,Power Bank,Electronics,3,170.43,511.29,Cash on Delivery,Delhi
+1142,C068,2023-10-16,P078,Lego Set,Toys,4,212.91,851.64,UPI,Delhi
+1414,C142,2023-09-10,P124,Comics,Books,3,263.33,789.99,UPI,Chennai
+1512,C101,2024-09-02,P075,Perfume,Beauty,1,478.81,478.81,Net Banking,Pune
+1372,C098,2023-06-17,P137,Biography,Books,2,327.88,655.76,Debit Card,Chennai
+1565,C011,2023-11-06,P090,Coffee Maker,Home & Kitchen,5,311.21,1556.05,Net Banking,Hyderabad
+1885,C105,2024-03-19,P061,Jeans,Clothing,4,339.35,1357.4,Cash on Delivery,Hyderabad
+1258,C184,2023-08-24,P138,Lamp,Home & Kitchen,5,70.84,354.2,Cash on Delivery,Kolkata
+1655,C067,2023-03-26,P050,Doll,Toys,5,219.86,1099.3,UPI,Bangalore
+1470,C123,2024-09-18,P259,Wireless Mouse,Electronics,1,207.5,207.5,Net Banking,Ahmedabad
+1952,C029,2023-12-18,P107,Cookware Set,Home & Kitchen,3,351.86,1055.58,Credit Card,Ahmedabad
+1970,C137,2024-04-07,P113,Action Figure,Toys,5,298.92,1494.6,Debit Card,Pune
+1011,C195,2024-09-06,P254,Jeans,Clothing,1,329.67,329.67,Net Banking,Delhi
+1329,C153,2024-04-10,P118,Vacuum Cleaner,Home & Kitchen,3,287.29,861.87,Net Banking,Delhi
+1735,C076,2024-03-10,P198,Biography,Books,3,414.61,1243.83,Net Banking,Chennai
+1783,C170,2024-03-07,P051,Comics,Books,2,239.15,478.3,Debit Card,Kolkata
+1967,C009,2023-12-13,P245,Cookware Set,Home & Kitchen,4,351.17,1404.68,UPI,Kolkata
+1357,C040,2024-06-16,P035,Shampoo,Beauty,1,373.64,373.64,Net Banking,Bangalore
+1971,C025,2024-08-11,P069,Vacuum Cleaner,Home & Kitchen,2,259.02,518.04,Debit Card,Hyderabad
+1407,C005,2023-04-11,P049,Lego Set,Toys,1,70.93,70.93,Debit Card,Chennai
+1667,C139,2023-01-28,P074,Running Shoes,Sports,5,35.16,175.8,UPI,Hyderabad
+1372,C187,2023-02-27,P192,Fiction Novel,Books,1,95.46,95.46,Credit Card,Pune
+1007,C124,2023-11-27,P261,Jacket,Clothing,2,210.68,421.36,Cash on Delivery,Bangalore
+1121,C038,2023-03-16,P070,Biography,Books,1,125.08,125.08,Cash on Delivery,Chennai
+1347,C072,2024-05-17,P090,Lego Set,Toys,2,471.03,942.06,Cash on Delivery,Chennai
+1675,C133,2024-06-14,P260,Lego Set,Toys,5,238.47,1192.35,Cash on Delivery,Mumbai
+1089,C176,2023-12-10,P126,Action Figure,Toys,2,358.63,717.26,Net Banking,Bangalore
+1647,C090,2023-01-01,P231,Sneakers,Clothing,5,130.54,652.7,Debit Card,Mumbai
+1697,C146,2024-05-22,P295,Jacket,Clothing,4,141.39,565.56,Cash on Delivery,Delhi
+1315,C198,2023-08-09,P129,T-Shirt,Clothing,3,296.11,888.33,Debit Card,Kolkata
+1177,C037,2023-01-25,P280,Action Figure,Toys,3,405.16,1215.48,Debit Card,Bangalore
+1539,C060,2023-02-11,P100,Science Book,Books,3,131.59,394.77,Credit Card,Kolkata
+1731,C176,2024-03-14,P297,Power Bank,Electronics,3,86.49,259.47,Credit Card,Chennai
+1868,C028,2023-02-14,P182,Smartphone,Electronics,2,156.68,313.36,Cash on Delivery,Bangalore
+1040,C197,2023-02-17,P174,Puzzle,Toys,5,216.12,1080.6,Debit Card,Ahmedabad
+1739,C081,2023-01-10,P188,Football,Sports,3,48.46,145.38,Cash on Delivery,Delhi
+1703,C114,2024-08-22,P057,Wireless Mouse,Electronics,1,110.93,110.93,Net Banking,Mumbai
+1922,C040,2024-04-23,P031,Cookbook,Books,4,183.39,733.56,Credit Card,Kolkata
+1501,C045,2024-06-04,P084,Wireless Mouse,Electronics,4,326.44,1305.76,Net Banking,Hyderabad
+1958,C062,2024-01-23,P152,Jacket,Clothing,5,400.33,2001.65,Debit Card,Mumbai
+1144,C093,2024-09-02,P036,Puzzle,Toys,1,14.97,14.97,Net Banking,Ahmedabad
+1200,C115,2023-09-04,P213,Hat,Clothing,1,443.65,443.65,UPI,Bangalore
+1928,C186,2024-09-14,P106,Cookware Set,Home & Kitchen,5,284.47,1422.35,Debit Card,Kolkata
+1723,C067,2024-09-12,P220,Science Book,Books,2,408.96,817.92,Debit Card,Pune
+1460,C056,2024-09-08,P163,Power Bank,Electronics,2,108.16,216.32,Credit Card,Hyderabad
+1731,C040,2024-01-01,P220,Lamp,Home & Kitchen,3,29.36,88.08,Net Banking,Pune
+1751,C098,2023-09-24,P270,Coffee Maker,Home & Kitchen,1,73.13,73.13,Credit Card,Ahmedabad
+1924,C040,2023-10-25,P120,Nail Polish,Beauty,3,452.1,1356.3,UPI,Ahmedabad
+1908,C091,2023-09-25,P182,Fiction Novel,Books,5,108.68,543.4,UPI,Hyderabad
+1557,C033,2023-03-14,P106,Perfume,Beauty,5,123.34,616.7,Cash on Delivery,Mumbai
+1546,C006,2024-07-25,P217,Hat,Clothing,4,258.55,1034.2,Net Banking,Bangalore
+1252,C147,2023-07-25,P205,Board Game,Toys,5,467.6,2338.0,Debit Card,Mumbai
+1389,C080,2023-03-30,P070,Moisturizer,Beauty,2,392.04,784.08,UPI,Ahmedabad
+1593,C168,2023-07-02,P044,Cricket Bat,Sports,2,167.64,335.28,Debit Card,Delhi
+1882,C092,2023-01-13,P228,Cricket Bat,Sports,1,95.32,95.32,Debit Card,Kolkata
+1255,C097,2023-04-16,P184,Lipstick,Beauty,2,289.65,579.3,Debit Card,Chennai
+1708,C059,2024-08-16,P107,Vacuum Cleaner,Home & Kitchen,3,159.53,478.59,UPI,Delhi
+1814,C059,2023-07-11,P084,Science Book,Books,3,324.38,973.14,Debit Card,Delhi
+1920,C048,2024-04-11,P250,Lamp,Home & Kitchen,5,119.95,599.75,Net Banking,Mumbai
+1449,C169,2023-08-05,P021,Hat,Clothing,1,188.26,188.26,Credit Card,Kolkata
+1009,C013,2023-07-02,P196,Jacket,Clothing,4,449.01,1796.04,UPI,Ahmedabad
+1823,C107,2024-09-03,P178,Cookware Set,Home & Kitchen,1,330.57,330.57,Debit Card,Chennai
+1797,C045,2023-05-24,P007,Nail Polish,Beauty,3,395.05,1185.15,Cash on Delivery,Ahmedabad
+1241,C089,2024-08-14,P070,Cricket Bat,Sports,3,128.03,384.09,Cash on Delivery,Pune
+1250,C181,2023-09-30,P127,Jacket,Clothing,4,245.4,981.6,UPI,Chennai
